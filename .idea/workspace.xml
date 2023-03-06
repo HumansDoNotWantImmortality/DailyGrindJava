@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars 8kyu Return Negative solution">
-      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/ReversedStrings.java" afterDir="false" />
-    </list>
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Convert boolean values to strings 'Yes' or 'No'.&#10;/Solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678118218095</updated>
-      <workItem from="1678118219234" duration="1777000" />
+      <workItem from="1678118219234" duration="2132000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -104,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678119920612</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CodeWars/8kyu/Reversed_Strings/Solution">
+      <created>1678120108237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678120108237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CodeWars/8kyu/Convert boolean values to strings 'Yes' or 'No'.&#10;/Solution">
+      <created>1678120292282</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678120292282</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +127,8 @@
     <MESSAGE value="8kyu Multiply solution" />
     <MESSAGE value="8kyu Sum of positive solution" />
     <MESSAGE value="CodeWars 8kyu Return Negative solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars 8kyu Return Negative solution" />
+    <MESSAGE value="CodeWars/8kyu/Reversed_Strings/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Convert boolean values to strings 'Yes' or 'No'.&#10;/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Convert boolean values to strings 'Yes' or 'No'.&#10;/Solution" />
   </component>
 </project>
