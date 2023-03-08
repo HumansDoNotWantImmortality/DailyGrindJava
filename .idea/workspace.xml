@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Remove First and Last Character/Solution" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Remove String Spaces/Solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,19 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ReturnNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.kyu8.ReturnNegative" />
@@ -73,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678118218095</updated>
       <workItem from="1678118219234" duration="2453000" />
+      <workItem from="1678214005128" duration="524000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -137,7 +138,42 @@
       <option name="project" value="LOCAL" />
       <updated>1678120643208</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="CodeWars/8kyu/String repeat/Solution">
+      <created>1678214156751</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214156751</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CodeWars/8kyu/Square(n) Sum/Solution">
+      <created>1678214285015</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214285015</updated>
+    </task>
+    <task id="LOCAL-00012" summary="CodeWars/8kyu/Grasshopper - Summation/Solution">
+      <created>1678214349259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214349259</updated>
+    </task>
+    <task id="LOCAL-00013" summary="CodeWars/8kyu/Grasshopper - Summation/Solution">
+      <created>1678214411539</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214411539</updated>
+    </task>
+    <task id="LOCAL-00014" summary="CodeWars/8kyu/Remove String Spaces/Solution">
+      <created>1678214494758</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214494758</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +189,10 @@
     <MESSAGE value="CodeWars/8kyu/Convert a Number to a String/Solution" />
     <MESSAGE value="CodeWars/8kyu/Opposite number/Solution" />
     <MESSAGE value="CodeWars/8kyu/Remove First and Last Character/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Remove First and Last Character/Solution" />
+    <MESSAGE value="CodeWars/8kyu/String repeat/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Square(n) Sum/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Grasshopper - Summation/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Remove String Spaces/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Remove String Spaces/Solution" />
   </component>
 </project>
