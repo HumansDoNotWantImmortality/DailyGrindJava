@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Counting sheep.../Solution">
-      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/CenturyFromYear.java" afterDir="false" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Century From Year/Solution">
+      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/KeepHydrated.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CenturyFromYear">
+  <component name="RunManager" selected="Application.KeepHydrated">
     <configuration name="CenturyFromYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.kyu8.CenturyFromYear" />
+      <module name="DailyGrind" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.kyu8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeepHydrated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.kyu8.KeepHydrated" />
       <module name="DailyGrind" />
       <extension name="coverage">
         <pattern>
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeepHydrated" />
         <item itemvalue="Application.CenturyFromYear" />
         <item itemvalue="Application.ReturnNegative" />
       </list>
@@ -90,7 +104,7 @@
       <updated>1678118218095</updated>
       <workItem from="1678118219234" duration="2453000" />
       <workItem from="1678214005128" duration="524000" />
-      <workItem from="1678303463185" duration="695000" />
+      <workItem from="1678303463185" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -204,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678303891259</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CodeWars/8kyu/Century From Year/Solution">
+      <created>1678304359687</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678304359687</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +247,7 @@
     <MESSAGE value="CodeWars/8kyu/Remove String Spaces/Solution" />
     <MESSAGE value="CodeWars/8kyu/Find the smallest integer in the array/Solution" />
     <MESSAGE value="CodeWars/8kyu/Counting sheep.../Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Counting sheep.../Solution" />
+    <MESSAGE value="CodeWars/8kyu/Century From Year/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Century From Year/Solution" />
   </component>
 </project>
