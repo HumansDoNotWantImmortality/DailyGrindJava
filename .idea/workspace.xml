@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Century From Year/Solution">
-      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/KeepHydrated.java" afterDir="false" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Keep Hydrated!/Solution">
+      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/BasicOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <updated>1678118218095</updated>
       <workItem from="1678118219234" duration="2453000" />
       <workItem from="1678214005128" duration="524000" />
-      <workItem from="1678303463185" duration="1015000" />
+      <workItem from="1678303463185" duration="1328000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678304359687</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="CodeWars/8kyu/Keep Hydrated!/Solution">
+      <created>1678304590917</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678304590917</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +255,7 @@
     <MESSAGE value="CodeWars/8kyu/Find the smallest integer in the array/Solution" />
     <MESSAGE value="CodeWars/8kyu/Counting sheep.../Solution" />
     <MESSAGE value="CodeWars/8kyu/Century From Year/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Century From Year/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Keep Hydrated!/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Keep Hydrated!/Solution" />
   </component>
 </project>
