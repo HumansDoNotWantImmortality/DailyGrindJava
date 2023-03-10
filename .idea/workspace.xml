@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Is n divisible by x and y?/Solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Beginner - Lost Without a Map/Solution">
+      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/ReturningStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <workItem from="1678303463185" duration="1424000" />
       <workItem from="1678390755862" duration="391000" />
       <workItem from="1678391272170" duration="8000" />
-      <workItem from="1678483186816" duration="356000" />
+      <workItem from="1678483186816" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -256,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678391131303</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="CodeWars/8kyu/Convert a String to a Number!/Solution">
+      <created>1678483621521</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678483621521</updated>
+    </task>
+    <task id="LOCAL-00023" summary="CodeWars/8kyu/Beginner - Lost Without a Map/Solution">
+      <created>1678483760599</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678483760599</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +297,8 @@
     <MESSAGE value="CodeWars/8kyu/Basic Mathematical Operations/Solution" />
     <MESSAGE value="CodeWars/8kyu/Abbreviate a Two Word Name/Solution" />
     <MESSAGE value="CodeWars/8kyu/Is n divisible by x and y?/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Is n divisible by x and y?/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Convert a String to a Number!/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Beginner - Lost Without a Map/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Beginner - Lost Without a Map/Solution" />
   </component>
 </project>
