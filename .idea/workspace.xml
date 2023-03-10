@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Abbreviate a Two Word Name/Solution" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Is n divisible by x and y?/Solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +105,9 @@
       <workItem from="1678118219234" duration="2453000" />
       <workItem from="1678214005128" duration="524000" />
       <workItem from="1678303463185" duration="1424000" />
-      <workItem from="1678390755862" duration="305000" />
+      <workItem from="1678390755862" duration="391000" />
+      <workItem from="1678391272170" duration="8000" />
+      <workItem from="1678483186816" duration="356000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -245,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678390949669</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="CodeWars/8kyu/Is n divisible by x and y?/Solution">
+      <created>1678391131303</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678391131303</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +282,7 @@
     <MESSAGE value="CodeWars/8kyu/Keep Hydrated!/Solution" />
     <MESSAGE value="CodeWars/8kyu/Basic Mathematical Operations/Solution" />
     <MESSAGE value="CodeWars/8kyu/Abbreviate a Two Word Name/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Abbreviate a Two Word Name/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Is n divisible by x and y?/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Is n divisible by x and y?/Solution" />
   </component>
 </project>
