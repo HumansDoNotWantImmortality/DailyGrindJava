@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Convert a Boolean to a String/Solution">
-      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/CountOfPositives_SumOfNegatives.java" afterDir="false" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/8kyu/Count of positives / sum of negatives/Solution">
+      <change afterPath="$PROJECT_DIR$/src/codewars/kyu8/InvertValues.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.KeepHydrated">
+  <component name="RunManager" selected="Application.InvertValues">
     <configuration name="CenturyFromYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codewars.kyu8.CenturyFromYear" />
+      <module name="DailyGrind" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.kyu8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvertValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.kyu8.InvertValues" />
       <module name="DailyGrind" />
       <extension name="coverage">
         <pattern>
@@ -88,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InvertValues" />
         <item itemvalue="Application.KeepHydrated" />
         <item itemvalue="Application.CenturyFromYear" />
         <item itemvalue="Application.ReturnNegative" />
@@ -110,7 +124,7 @@
       <workItem from="1678483186816" duration="1005000" />
       <workItem from="1678561279285" duration="6000" />
       <workItem from="1678571994327" duration="289000" />
-      <workItem from="1678643197619" duration="416000" />
+      <workItem from="1678643197619" duration="717000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -315,14 +329,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678643379277</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="CodeWars/8kyu/Count of positives / sum of negatives/Solution">
+      <created>1678643634293</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1678643634293</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeWars 8kyu Return Negative solution" />
     <MESSAGE value="CodeWars/8kyu/Reversed_Strings/Solution" />
     <MESSAGE value="CodeWars/8kyu/Convert boolean values to strings 'Yes' or 'No'.&#10;/Solution" />
     <MESSAGE value="CodeWars/8kyu/Convert a Number to a String/Solution" />
@@ -347,6 +367,7 @@
     <MESSAGE value="CodeWars/8kyu/Beginner Series #2 Clock/Solution" />
     <MESSAGE value="CodeWars/8kyu/Opposites Attract/Solution" />
     <MESSAGE value="CodeWars/8kyu/Convert a Boolean to a String/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Convert a Boolean to a String/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Count of positives / sum of negatives/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/8kyu/Count of positives / sum of negatives/Solution" />
   </component>
 </project>
