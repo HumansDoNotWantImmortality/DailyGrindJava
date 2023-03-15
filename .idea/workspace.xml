@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Get The Middle Character/Solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Mumbling/Solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,6 +127,7 @@
       <workItem from="1678727465290" duration="272000" />
       <workItem from="1678826221475" duration="181000" />
       <workItem from="1678826577280" duration="8000" />
+      <workItem from="1678915795632" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -396,14 +395,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678826401432</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="CodeWars/7kyu/Mumbling/Solution">
+      <created>1678916133335</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1678916133335</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeWars/8kyu/Grasshopper - Summation/Solution" />
     <MESSAGE value="CodeWars/8kyu/Remove String Spaces/Solution" />
     <MESSAGE value="CodeWars/8kyu/Find the smallest integer in the array/Solution" />
     <MESSAGE value="CodeWars/8kyu/Counting sheep.../Solution" />
@@ -428,6 +433,7 @@
     <MESSAGE value="CodeWars/7kyu/Highest and Lowest/Solution" />
     <MESSAGE value="CodeWars/7kyu/Descending Order/Solution" />
     <MESSAGE value="CodeWars/7kyu/Get The Middle Character/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Get The Middle Character/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Mumbling/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Mumbling/Solution" />
   </component>
 </project>
