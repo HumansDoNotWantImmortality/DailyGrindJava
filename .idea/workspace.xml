@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/List Filtering/Solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Exes and Ohs/Solution">
+      <change afterPath="$PROJECT_DIR$/src/codewars/kyu7/ShortestWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +131,7 @@
       <workItem from="1678826577280" duration="8000" />
       <workItem from="1678915795632" duration="657000" />
       <workItem from="1678918705925" duration="5000" />
+      <workItem from="1679002658645" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -419,15 +420,27 @@
       <option name="project" value="LOCAL" />
       <updated>1678916455827</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="CodeWars/7kyu/Isograms/Solution">
+      <created>1679002800610</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679002800610</updated>
+    </task>
+    <task id="LOCAL-00043" summary="CodeWars/7kyu/Exes and Ohs/Solution">
+      <created>1679002871339</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1679002871339</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeWars/8kyu/Counting sheep.../Solution" />
-    <MESSAGE value="CodeWars/8kyu/Century From Year/Solution" />
     <MESSAGE value="CodeWars/8kyu/Keep Hydrated!/Solution" />
     <MESSAGE value="CodeWars/8kyu/Basic Mathematical Operations/Solution" />
     <MESSAGE value="CodeWars/8kyu/Abbreviate a Two Word Name/Solution" />
@@ -451,6 +464,8 @@
     <MESSAGE value="CodeWars/7kyu/Mumbling/Solution" />
     <MESSAGE value="CodeWars/7kyu/You're a square!/Solution" />
     <MESSAGE value="CodeWars/7kyu/List Filtering/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/List Filtering/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Isograms/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Exes and Ohs/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Exes and Ohs/Solution" />
   </component>
 </project>
