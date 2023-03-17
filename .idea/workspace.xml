@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Exes and Ohs/Solution">
-      <change afterPath="$PROJECT_DIR$/src/codewars/kyu7/ShortestWord.java" afterDir="false" />
-    </list>
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Shortest Word/Solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +129,7 @@
       <workItem from="1678826577280" duration="8000" />
       <workItem from="1678915795632" duration="657000" />
       <workItem from="1678918705925" duration="5000" />
-      <workItem from="1679002658645" duration="329000" />
+      <workItem from="1679002658645" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -434,14 +432,20 @@
       <option name="project" value="LOCAL" />
       <updated>1679002871339</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="CodeWars/7kyu/Shortest Word/Solution">
+      <created>1679003050764</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1679003050764</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeWars/8kyu/Keep Hydrated!/Solution" />
     <MESSAGE value="CodeWars/8kyu/Basic Mathematical Operations/Solution" />
     <MESSAGE value="CodeWars/8kyu/Abbreviate a Two Word Name/Solution" />
     <MESSAGE value="CodeWars/8kyu/Is n divisible by x and y?/Solution" />
@@ -466,6 +470,7 @@
     <MESSAGE value="CodeWars/7kyu/List Filtering/Solution" />
     <MESSAGE value="CodeWars/7kyu/Isograms/Solution" />
     <MESSAGE value="CodeWars/7kyu/Exes and Ohs/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Exes and Ohs/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Shortest Word/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Shortest Word/Solution" />
   </component>
 </project>
