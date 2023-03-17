@@ -1,7 +1,7 @@
 # DailyGrindJava
 Daily dose of Java.
 
-# CodeWars: 43 in total
+# CodeWars: 46 in total
 
 | Question | Solution | Kyu |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -51,3 +51,6 @@ Daily dose of Java.
 | [10. Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/isogram.java) | 7 |
 | [11. Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/XO.java) | 7 |
 | [12. Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/ShortestWord.java) | 7 |
+| [13. Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/java) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/JadenCase.java) | 7 |
+| [14. Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/DnaStrand.java) | 7 |
+| [15. Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/solutions/java) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/Maskify.java) | 7 |
