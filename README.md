@@ -54,3 +54,6 @@ Daily dose of Java.
 | [13. Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/java) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/JadenCase.java) | 7 |
 | [14. Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/DnaStrand.java) | 7 |
 | [15. Credit Card Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/solutions/java) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/Maskify.java) | 7 |
+| [16. Beginner Series #3 Sum of Numbers](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/Sum.java) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/commit/d0bf2096b80c0013b17c913686925a353fa270f6) | 7 |
+| [17. Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/java) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/TwoToOne.java) | 7 |
+| [18. Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/java) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/NumberFun.java) | 7 |
