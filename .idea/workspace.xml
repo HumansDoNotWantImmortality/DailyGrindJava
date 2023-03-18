@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Credit Card Mask/Solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Beginner Series #3 Sum of Numbers/Solution">
+      <change afterPath="$PROJECT_DIR$/src/codewars/kyu7/TwoToOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +134,7 @@
       <workItem from="1679002658645" duration="394000" />
       <workItem from="1679065086445" duration="104000" />
       <workItem from="1679078751740" duration="1208000" />
+      <workItem from="1679140603042" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="8kyu Even or odd solution">
       <created>1678118486999</created>
@@ -471,14 +472,20 @@
       <option name="project" value="LOCAL" />
       <updated>1679079349299</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="CodeWars/7kyu/Beginner Series #3 Sum of Numbers/Solution">
+      <created>1679140715714</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1679140715714</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeWars/8kyu/Beginner - Lost Without a Map/Solution" />
     <MESSAGE value="CodeWars/8kyu/Returning Strings/Solution" />
     <MESSAGE value="CodeWars/8kyu/A Needle in the Haystack/Solution" />
     <MESSAGE value="CodeWars/8kyu/Function 1 - hello world/Solution" />
@@ -503,6 +510,7 @@
     <MESSAGE value="CodeWars/7kyu/Jaden Casing Strings/Solution" />
     <MESSAGE value="CodeWars/7kyu/Complementary DNA/Solution" />
     <MESSAGE value="CodeWars/7kyu/Credit Card Mask/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Credit Card Mask/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Beginner Series #3 Sum of Numbers/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Beginner Series #3 Sum of Numbers/Solution" />
   </component>
 </project>
