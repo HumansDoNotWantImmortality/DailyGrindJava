@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="CodeWars/7kyu/Find the next perfect square!/Solution">
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,27 +140,7 @@
       <workItem from="1679254725224" duration="825000" />
       <workItem from="1679328147567" duration="584000" />
       <workItem from="1679331737378" duration="9000" />
-    </task>
-    <task id="LOCAL-00007" summary="CodeWars/8kyu/Convert a Number to a String/Solution">
-      <created>1678120481498</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1678120481498</updated>
-    </task>
-    <task id="LOCAL-00008" summary="CodeWars/8kyu/Opposite number/Solution">
-      <created>1678120561778</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1678120561778</updated>
-    </task>
-    <task id="LOCAL-00009" summary="CodeWars/8kyu/Remove First and Last Character/Solution">
-      <created>1678120643208</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1678120643208</updated>
+      <workItem from="1679343151506" duration="674000" />
     </task>
     <task id="LOCAL-00010" summary="CodeWars/8kyu/String repeat/Solution">
       <created>1678214156751</created>
@@ -483,16 +464,34 @@
       <option name="project" value="LOCAL" />
       <updated>1679255358559</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="CodeWars/7kyu/Binary Addition/Solution">
+      <created>1679343348058</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1679343348058</updated>
+    </task>
+    <task id="LOCAL-00057" summary="CodeWars/7kyu/Is this a triangle?/Solution">
+      <created>1679343426870</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1679343426870</updated>
+    </task>
+    <task id="LOCAL-00058" summary="CodeWars/7kyu/Sum of odd numbers/Solution">
+      <created>1679343495923</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1679343495923</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeWars/8kyu/Convert a Boolean to a String/Solution" />
-    <MESSAGE value="CodeWars/8kyu/Count of positives / sum of negatives/Solution" />
-    <MESSAGE value="CodeWars/8kyu/Invert values/Solution" />
     <MESSAGE value="CodeWars/7kyu/Vowel Count/Solution" />
     <MESSAGE value="CodeWars/7kyu/Disemvowel Trolls/Solution" />
     <MESSAGE value="CodeWars/7kyu/Digit*Digit/Solution" />
@@ -515,6 +514,9 @@
     <MESSAGE value="CodeWars/7kyu/Find the next perfect square!/Solution" />
     <MESSAGE value="CodeWars/7kyu/Growth of a Population/Solution" />
     <MESSAGE value="CodeWars/7kyu/Regex validate PIN code/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Regex validate PIN code/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Binary Addition/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Is this a triangle?/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Sum of odd numbers/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Sum of odd numbers/Solution" />
   </component>
 </project>
