@@ -70,4 +70,8 @@ Daily dose of Java.
 | [29. Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)                       | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/ReverseWords.java) | 7 |
 | [30. Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/NthSeries.java) | 7 |
 
+| Question                                                                          | Solution | Kyu |
+|-----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:---:|
+| [1. Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)  | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/MultiplesOf3Or5.java) |  6  |
+
 
