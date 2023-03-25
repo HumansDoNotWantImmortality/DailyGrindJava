@@ -1,7 +1,7 @@
 # DailyGrindJava
 Daily dose of Java.
 
-# CodeWars: 63 in total
+# CodeWars: 64 in total
 
 | Question                                                                                                      | Solution | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -74,6 +74,7 @@ Daily dose of Java.
 |--------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:---:|
 | [1. Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)     | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/MultiplesOf3Or5.java) |  6  |
 | [2. Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/SpinWords.java) |  6  |
+| [3. Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)        | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOdd.java) |  6  |
 
 
 
