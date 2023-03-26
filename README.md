@@ -1,7 +1,7 @@
 # DailyGrindJava
 Daily dose of Java.
 
-# CodeWars: 64 in total
+# CodeWars: 65 in total
 
 | Question                                                                                                      | Solution | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -70,11 +70,12 @@ Daily dose of Java.
 | [29. Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)                       | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/ReverseWords.java) | 7 |
 | [30. Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/NthSeries.java) | 7 |
 
-| Question                                                                             | Solution | Kyu |
-|--------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:---:|
-| [1. Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)     | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/MultiplesOf3Or5.java) |  6  |
-| [2. Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/SpinWords.java) |  6  |
-| [3. Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)        | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOdd.java) |  6  |
+| Question                                                                                  | Solution | Kyu |
+|-------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:---:|
+| [1. Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)          | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/MultiplesOf3Or5.java) |  6  |
+| [2. Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)      | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/SpinWords.java) |  6  |
+| [3. Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)             | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOdd.java) |  6  |
+| [4. Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DRoot.java) |  6  |
 
 
 
