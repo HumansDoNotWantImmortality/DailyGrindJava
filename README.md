@@ -1,7 +1,7 @@
 # DailyGrindJava
 Daily dose of Java.
 
-# CodeWars: 66 in total
+# CodeWars: 67 in total
 
 | Question                                                                                                      | Solution | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -76,7 +76,8 @@ Daily dose of Java.
 | [2. Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)      | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/SpinWords.java) |  6  |
 | [3. Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)             | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOdd.java) |  6  |
 | [4. Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DRoot.java) |  6  |
-| [5. Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/WhoLikesIt.java) |  6  |
+| [5. Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)                | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/WhoLikesIt.java) |  6  |
+| [6. Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)                   | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ArrayDiff.java) |  6  |
 
 
 
