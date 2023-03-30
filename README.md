@@ -1,7 +1,7 @@
 # DailyGrindJava
 Daily dose of Java.
 
-# CodeWars: 68 in total
+# CodeWars: 69 in total
 
 | Question                                                                                                      | Solution | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -79,6 +79,7 @@ Daily dose of Java.
 | [5. Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)                | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/WhoLikesIt.java) |  6  |
 | [6. Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)                   | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ArrayDiff.java) |  6  |
 | [7. Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)          | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/CreatePhoneNumber.java) |  6  |
+| [8. Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)                 | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/BitCounting.java) |  6  |
 
 
 
