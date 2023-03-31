@@ -1,7 +1,7 @@
 # DailyGrindJava
 Daily dose of Java.
 
-# CodeWars: 69 in total
+# CodeWars: 70 in total
 
 | Question                                                                                                      | Solution | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -80,6 +80,7 @@ Daily dose of Java.
 | [6. Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)                   | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ArrayDiff.java) |  6  |
 | [7. Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)          | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/CreatePhoneNumber.java) |  6  |
 | [8. Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)                 | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/BitCounting.java) |  6  |
+| [9. Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)      | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOutlier.java) |  6  |
 
 
 
