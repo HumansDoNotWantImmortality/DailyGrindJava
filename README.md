@@ -1,10 +1,14 @@
 # DailyGrindJava
+
 Daily dose of Java.
+
 ## Disclaimer
-I made this repository public just to force myself to do at least one problem even on a bad day. If you are looking for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any good. Think, break it, use ChatGPT even (it will explain how to get to the solution). 
 
+I made this repository public just to force myself to solve at least one problem even on a bad day. If you are looking
+for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any
+good. Think, break it, use ChatGPT even (it will explain how to get to the solution).
 
-## CodeWars: 73 in total
+## CodeWars: 74 in total
 
 | Question                                                                                                      |                                                                     Solution                                                                     | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -87,6 +91,7 @@ I made this repository public just to force myself to do at least one problem ev
 | [10. Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)         | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/CountingDuplicates.java) |  6  |
 | [11. Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)          |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Persist.java)       |  6  |
 | [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)           |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)  |  6  |
+| [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)          |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)  |  6  |
 
 
 
