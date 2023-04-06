@@ -8,7 +8,7 @@ I made this repository public just to force myself to solve at least one problem
 for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any
 good. Think, break it, use ChatGPT even (it will explain how to get to the solution).
 
-## CodeWars: 74 in total
+## CodeWars: 75 in total
 
 | Question                                                                                                      |                                                                     Solution                                                                     | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -93,9 +93,10 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)           |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)  |  6  |
 | [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)        |  6  |
 
-## Project Euler: 1 in total
+## Project Euler: 2 in total
 
-| Question                                                     |                                                          Solution                                                          | ?%  |
-|--------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------:|:---:|
-| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java) | 5%  |
+| Question                                                        |                                                            Solution                                                             | ?%  |
+|-----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------:|:---:|
+| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1)    |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java)    | 5%  |
+| [2. Even Fibonacci numbers](https://projecteuler.net/problem=2) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/EvenFibonacciNumbers.java) | 5%  |
 
