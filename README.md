@@ -8,7 +8,7 @@ I made this repository public just to force myself to solve at least one problem
 for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any
 good. Think, break it, use ChatGPT even (it will explain how to get to the solution).
 
-## CodeWars: 77 in total
+## CodeWars: 78 in total
 
 | Question                                                                                                      |                                                                     Solution                                                                     | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -95,10 +95,11 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 
 ## Project Euler: 4 in total
 
-| Question                                                        |                                                            Solution                                                             | ?%  |
-|-----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------:|:---:|
-| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1)    |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java)    | 5%  |
+| Question                                                      |                                                            Solution                                                             | ?%  |
+|---------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------:|:---:|
+| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1)  |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java)    | 5%  |
 | [2. Even Fibonacci numbers](https://projecteuler.net/problem=2) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/EvenFibonacciNumbers.java) | 5%  |
-| [3. Sum square difference](https://projecteuler.net/problem=6)  | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SumSquareDifference.java)  | 5%  |
-| [4. Smallest multiple](https://projecteuler.net/problem=5)      |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SmallestMultiple.java)   | 5%  |
+| [3. Sum square difference](https://projecteuler.net/problem=6) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SumSquareDifference.java)  | 5%  |
+| [4. Smallest multiple](https://projecteuler.net/problem=5)    |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SmallestMultiple.java)   | 5%  |
+| [5. Largest prime factor](https://projecteuler.net/problem=3) |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPrimeFactor.java)  | 5%  |
 
