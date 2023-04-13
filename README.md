@@ -1,4 +1,4 @@
-# DailyGrindJava: 82 in total
+# DailyGrindJava: 83 in total
 
 Daily dose of Java.
 
@@ -93,7 +93,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)           |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)  |  6  |
 | [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)        |  6  |
 
-## Project Euler: 8 in total
+## Project Euler: 9 in total
 
 | Question                                                             |                                                              Solution                                                               | ?%  |
 |----------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -105,4 +105,5 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [6. Largest palindrome product](https://projecteuler.net/problem=4)  | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPalindromeProduct.java) | 5%  |
 | [7. 10001st prime](https://projecteuler.net/problem=7)               |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/Prime10001st.java)       | 5%  |
 | [8. Special Pythagorean triplet](https://projecteuler.net/problem=9) |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PythagoreanTriplet.java)    | 5%  |
+| [9. Largest product in a series](https://projecteuler.net/problem=8) |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestProducInASeries.java)  | 5%  |
 
