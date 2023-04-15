@@ -1,4 +1,4 @@
-# DailyGrindJava: 84 in total
+# DailyGrindJava: 85 in total
 
 Daily dose of Java.
 
@@ -93,7 +93,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)           |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)  |  6  |
 | [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)        |  6  |
 
-## Project Euler: 10 in total
+## Project Euler: 11 in total
 
 | Question                                                             |                                                              Solution                                                               | ?%  |
 |----------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -107,4 +107,5 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [8. Special Pythagorean triplet](https://projecteuler.net/problem=9) |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PythagoreanTriplet.java)    | 5%  |
 | [9. Largest product in a series](https://projecteuler.net/problem=8) |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestProducInASeries.java)  | 5%  |
 | [10. Summation of primes](https://projecteuler.net/problem=10)       |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SummationOfPrimes.java)     | 5%  |
+| [11. Power digit sum](https://projecteuler.net/problem=16)           |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PowerDigitSum.java)       | 5%  |
 
