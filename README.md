@@ -1,4 +1,4 @@
-# DailyGrindJava: 86 in total
+# DailyGrindJava: 87 in total
 
 Daily dose of Java.
 
@@ -109,8 +109,9 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [10. Summation of primes](https://projecteuler.net/problem=10)       |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SummationOfPrimes.java)     | 5%  |
 | [11. Power digit sum](https://projecteuler.net/problem=16)           |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PowerDigitSum.java)       | 5%  |
 
-## Exercism: 1 in total
+## Exercism: 2 in total
 
-| Question                                                             |                                                              Solution                                                               |
-|----------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
-| [1. Hello World](https://exercism.org/tracks/java/exercises/hello-world)         |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Greeter.java)      |
+| Question                                                                 |                                                              Solution                                                               |
+|--------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| [1. Hello World](https://exercism.org/tracks/java/exercises/hello-world) |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Greeter.java)      |
+| [2. Cook your lasagna](https://exercism.org/tracks/java/exercises/lasagna)     |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Lasagna.java)      |
