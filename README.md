@@ -1,4 +1,4 @@
-# DailyGrindJava: 89 in total
+# DailyGrindJava: 91 in total
 
 Daily dose of Java.
 
@@ -93,27 +93,29 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)           |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)  |  6  |
 | [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)        |  6  |
 
-## Project Euler: 11 in total
+## Project Euler: 12 in total
 
-| Question                                                             |                                                              Solution                                                               | ?%  |
-|----------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|:---:|
-| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1)         |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java)      | 5%  |
-| [2. Even Fibonacci numbers](https://projecteuler.net/problem=2)      |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/EvenFibonacciNumbers.java)   | 5%  |
-| [3. Sum square difference](https://projecteuler.net/problem=6)       |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SumSquareDifference.java)    | 5%  |
-| [4. Smallest multiple](https://projecteuler.net/problem=5)           |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SmallestMultiple.java)     | 5%  |
-| [5. Largest prime factor](https://projecteuler.net/problem=3)        |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPrimeFactor.java)    | 5%  |
-| [6. Largest palindrome product](https://projecteuler.net/problem=4)  | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPalindromeProduct.java) | 5%  |
-| [7. 10001st prime](https://projecteuler.net/problem=7)               |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/Prime10001st.java)       | 5%  |
-| [8. Special Pythagorean triplet](https://projecteuler.net/problem=9) |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PythagoreanTriplet.java)    | 5%  |
-| [9. Largest product in a series](https://projecteuler.net/problem=8) |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestProducInASeries.java)  | 5%  |
-| [10. Summation of primes](https://projecteuler.net/problem=10)       |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SummationOfPrimes.java)     | 5%  |
-| [11. Power digit sum](https://projecteuler.net/problem=16)           |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PowerDigitSum.java)       | 5%  |
+| Question                                                                      |                                                                  Solution                                                                  | ?%  |
+|-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
+| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1)                  |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java)         | 5%  |
+| [2. Even Fibonacci numbers](https://projecteuler.net/problem=2)               |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/EvenFibonacciNumbers.java)       | 5%  |
+| [3. Sum square difference](https://projecteuler.net/problem=6)                |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SumSquareDifference.java)       | 5%  |
+| [4. Smallest multiple](https://projecteuler.net/problem=5)                    |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SmallestMultiple.java)         | 5%  |
+| [5. Largest prime factor](https://projecteuler.net/problem=3)                 |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPrimeFactor.java)        | 5%  |
+| [6. Largest palindrome product](https://projecteuler.net/problem=4)           |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPalindromeProduct.java)     | 5%  |
+| [7. 10001st prime](https://projecteuler.net/problem=7)                        |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/Prime10001st.java)           | 5%  |
+| [8. Special Pythagorean triplet](https://projecteuler.net/problem=9)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PythagoreanTriplet.java)        | 5%  |
+| [9. Largest product in a series](https://projecteuler.net/problem=8)          |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestProducInASeries.java)      | 5%  |
+| [10. Summation of primes](https://projecteuler.net/problem=10)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SummationOfPrimes.java)        | 5%  |
+| [11. Power digit sum](https://projecteuler.net/problem=16)                    |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PowerDigitSum.java)          | 5%  |
+| [12. Highly divisible triangular number](https://projecteuler.net/problem=12) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/HighlyDivisibleTriangularNumber.java) | 5%  |
 
-## Exercism: 4 in total
+## Exercism: 5 in total
 
-| Question                                                                                      |                                                              Solution                                                               |
-|-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|
-| [1. Hello World](https://exercism.org/tracks/java/exercises/hello-world)                      |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Greeter.java)      |
-| [2. Cook your lasagna](https://exercism.org/tracks/java/exercises/lasagna)                    |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Lasagna.java)      |
-| [3. Annalyn's Infiltration](https://exercism.org/tracks/java/exercises/annalyns-infiltration) |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/AnnalynsInfiltration.java)      |
-| [4. Bird Watcher](https://exercism.org/tracks/java/exercises/bird-watcher) |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/BirdWatcher.java)      |
+| Question                                                                                      |                                                          Solution                                                           |
+|-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
+| [1. Hello World](https://exercism.org/tracks/java/exercises/hello-world)                      |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Greeter.java)        |
+| [2. Cook your lasagna](https://exercism.org/tracks/java/exercises/lasagna)                    |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Lasagna.java)        |
+| [3. Annalyn's Infiltration](https://exercism.org/tracks/java/exercises/annalyns-infiltration) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/AnnalynsInfiltration.java) |
+| [4. Bird Watcher](https://exercism.org/tracks/java/exercises/bird-watcher)                    |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/BirdWatcher.java)      |
+| [5. Karl's Languages](https://exercism.org/tracks/java/exercises/karls-languages)             |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LanguageList.java)     |
