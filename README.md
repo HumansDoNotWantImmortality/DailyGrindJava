@@ -1,4 +1,4 @@
-# DailyGrindJava: 91 in total
+# DailyGrindJava: 93 in total
 
 Daily dose of Java.
 
@@ -93,7 +93,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)           |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)  |  6  |
 | [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)        |  6  |
 
-## Project Euler: 12 in total
+## Project Euler: 13 in total
 
 | Question                                                                      |                                                                  Solution                                                                  | ?%  |
 |-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -109,8 +109,9 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [10. Summation of primes](https://projecteuler.net/problem=10)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SummationOfPrimes.java)        | 5%  |
 | [11. Power digit sum](https://projecteuler.net/problem=16)                    |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PowerDigitSum.java)          | 5%  |
 | [12. Highly divisible triangular number](https://projecteuler.net/problem=12) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/HighlyDivisibleTriangularNumber.java) | 5%  |
+| [13. Factorial digit sum](https://projecteuler.net/problem=20)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/FactorialDigitSum.java)        | 5%  |
 
-## Exercism: 5 in total
+## Exercism: 6 in total
 
 | Question                                                                                      |                                                          Solution                                                           |
 |-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
@@ -119,3 +120,4 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [3. Annalyn's Infiltration](https://exercism.org/tracks/java/exercises/annalyns-infiltration) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/AnnalynsInfiltration.java) |
 | [4. Bird Watcher](https://exercism.org/tracks/java/exercises/bird-watcher)                    |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/BirdWatcher.java)      |
 | [5. Karl's Languages](https://exercism.org/tracks/java/exercises/karls-languages)             |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LanguageList.java)     |
+| [6. Squeaky Clean](https://exercism.org/tracks/java/exercises/squeaky-clean)                  |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SqueakyClean.java)     |
