@@ -1,4 +1,4 @@
-# DailyGrindJava: 93 in total
+# DailyGrindJava: 96 in total
 
 Daily dose of Java.
 
@@ -8,7 +8,7 @@ I made this repository public just to force myself to solve at least one problem
 for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any
 good. Think, break it, use ChatGPT even (it will explain how to get to the solution).
 
-## CodeWars: 74 in total
+## CodeWars: 75 in total
 
 | Question                                                                                                      |                                                                     Solution                                                                     | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -77,41 +77,43 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [29. Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)                       |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/ReverseWords.java)      |  7  |
 | [30. Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071) |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu7/NthSeries.java)       |  7  |
 
-| Question                                                                                  |                                                            Solution                                                            | Kyu |
-|-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------:|:---:|
-| [1. Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)          |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/MultiplesOf3Or5.java)   |  6  |
-| [2. Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)      |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/SpinWords.java)      |  6  |
-| [3. Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)             |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOdd.java)       |  6  |
-| [4. Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DRoot.java)        |  6  |
-| [5. Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)                |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/WhoLikesIt.java)     |  6  |
-| [6. Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)                   |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ArrayDiff.java)      |  6  |
-| [7. Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)          | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/CreatePhoneNumber.java)  |  6  |
-| [8. Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)                 |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/BitCounting.java)     |  6  |
-| [9. Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)      |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOutlier.java)     |  6  |
-| [10. Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)         | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/CountingDuplicates.java) |  6  |
-| [11. Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)          |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Persist.java)       |  6  |
-| [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)           |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)  |  6  |
-| [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)        |  6  |
+| Question                                                                                   |                                                               Solution                                                               | Kyu |
+|--------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------:|:---:|
+| [1. Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)           |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/MultiplesOf3Or5.java)      |  6  |
+| [2. Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)       |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/SpinWords.java)         |  6  |
+| [3. Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)              |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOdd.java)          |  6  |
+| [4. Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)  |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DRoot.java)           |  6  |
+| [5. Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)                 |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/WhoLikesIt.java)        |  6  |
+| [6. Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)                    |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ArrayDiff.java)         |  6  |
+| [7. Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)           |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/CreatePhoneNumber.java)     |  6  |
+| [8. Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)                  |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/BitCounting.java)        |  6  |
+| [9. Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)       |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/FindOutlier.java)        |  6  |
+| [10. Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)          |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/CountingDuplicates.java)    |  6  |
+| [11. Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)           |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Persist.java)          |  6  |
+| [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)            |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)     |  6  |
+| [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)           |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)           |  6  |
+| [14. Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ConvertStringToCamelCase.java) |  6  |
 
-## Project Euler: 13 in total
+## Project Euler: 14 in total
 
-| Question                                                                      |                                                                  Solution                                                                  | ?%  |
-|-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
-| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1)                  |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java)         | 5%  |
-| [2. Even Fibonacci numbers](https://projecteuler.net/problem=2)               |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/EvenFibonacciNumbers.java)       | 5%  |
-| [3. Sum square difference](https://projecteuler.net/problem=6)                |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SumSquareDifference.java)       | 5%  |
-| [4. Smallest multiple](https://projecteuler.net/problem=5)                    |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SmallestMultiple.java)         | 5%  |
-| [5. Largest prime factor](https://projecteuler.net/problem=3)                 |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPrimeFactor.java)        | 5%  |
-| [6. Largest palindrome product](https://projecteuler.net/problem=4)           |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPalindromeProduct.java)     | 5%  |
-| [7. 10001st prime](https://projecteuler.net/problem=7)                        |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/Prime10001st.java)           | 5%  |
-| [8. Special Pythagorean triplet](https://projecteuler.net/problem=9)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PythagoreanTriplet.java)        | 5%  |
-| [9. Largest product in a series](https://projecteuler.net/problem=8)          |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestProducInASeries.java)      | 5%  |
-| [10. Summation of primes](https://projecteuler.net/problem=10)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SummationOfPrimes.java)        | 5%  |
-| [11. Power digit sum](https://projecteuler.net/problem=16)                    |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PowerDigitSum.java)          | 5%  |
-| [12. Highly divisible triangular number](https://projecteuler.net/problem=12) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/HighlyDivisibleTriangularNumber.java) | 5%  |
-| [13. Factorial digit sum](https://projecteuler.net/problem=20)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/FactorialDigitSum.java)        | 5%  |
+| Question                                                                      |                                                                  Solution                                                                  | ?% |
+|-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:--:|
+| [1. Multiples of 3 or 5](https://projecteuler.net/problem=1)                  |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/MultiplesOf3Or5.java)         | 5% |
+| [2. Even Fibonacci numbers](https://projecteuler.net/problem=2)               |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/EvenFibonacciNumbers.java)       | 5% |
+| [3. Sum square difference](https://projecteuler.net/problem=6)                |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SumSquareDifference.java)       | 5% |
+| [4. Smallest multiple](https://projecteuler.net/problem=5)                    |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SmallestMultiple.java)         | 5% |
+| [5. Largest prime factor](https://projecteuler.net/problem=3)                 |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPrimeFactor.java)        | 5% |
+| [6. Largest palindrome product](https://projecteuler.net/problem=4)           |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestPalindromeProduct.java)     | 5% |
+| [7. 10001st prime](https://projecteuler.net/problem=7)                        |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/Prime10001st.java)           | 5% |
+| [8. Special Pythagorean triplet](https://projecteuler.net/problem=9)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PythagoreanTriplet.java)        | 5% |
+| [9. Largest product in a series](https://projecteuler.net/problem=8)          |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargestProducInASeries.java)      | 5% |
+| [10. Summation of primes](https://projecteuler.net/problem=10)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SummationOfPrimes.java)        | 5% |
+| [11. Power digit sum](https://projecteuler.net/problem=16)                    |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/PowerDigitSum.java)          | 5% |
+| [12. Highly divisible triangular number](https://projecteuler.net/problem=12) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/HighlyDivisibleTriangularNumber.java) | 5% |
+| [13. Factorial digit sum](https://projecteuler.net/problem=20)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/FactorialDigitSum.java)        | 5% |
+| [14. Large sum](https://projecteuler.net/problem=13)                          |            [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargeSum.java)             | 5% |
 
-## Exercism: 6 in total
+## Exercism: 7 in total
 
 | Question                                                                                      |                                                          Solution                                                           |
 |-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
@@ -121,3 +123,4 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [4. Bird Watcher](https://exercism.org/tracks/java/exercises/bird-watcher)                    |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/BirdWatcher.java)      |
 | [5. Karl's Languages](https://exercism.org/tracks/java/exercises/karls-languages)             |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LanguageList.java)     |
 | [6. Squeaky Clean](https://exercism.org/tracks/java/exercises/squeaky-clean)                  |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SqueakyClean.java)     |
+| [7. Elon's Toy Car](https://exercism.org/tracks/java/exercises/elons-toy-car)                 |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/ElonsToyCar.java)      |
