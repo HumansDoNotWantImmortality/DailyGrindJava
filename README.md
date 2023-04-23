@@ -1,4 +1,4 @@
-# DailyGrindJava: 96 in total
+# DailyGrindJava: 100 in total
 
 Daily dose of Java.
 
@@ -8,7 +8,7 @@ I made this repository public just to force myself to solve at least one problem
 for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any
 good. Think, break it, use ChatGPT even (it will explain how to get to the solution).
 
-## CodeWars: 75 in total
+## CodeWars: 76 in total
 
 | Question                                                                                                      |                                                                     Solution                                                                     | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -93,8 +93,9 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [12. Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)            |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/DuplicateEncoder.java)     |  6  |
 | [13. Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)           |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Order.java)           |  6  |
 | [14. Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ConvertStringToCamelCase.java) |  6  |
+| [15. Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)          |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Xbonacci.java)         |  6  |
 
-## Project Euler: 14 in total
+## Project Euler: 15 in total
 
 | Question                                                                      |                                                                  Solution                                                                  | ?% |
 |-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:--:|
@@ -112,8 +113,9 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [12. Highly divisible triangular number](https://projecteuler.net/problem=12) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/HighlyDivisibleTriangularNumber.java) | 5% |
 | [13. Factorial digit sum](https://projecteuler.net/problem=20)                |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/FactorialDigitSum.java)        | 5% |
 | [14. Large sum](https://projecteuler.net/problem=13)                          |            [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LargeSum.java)             | 5% |
+| [15. Longest Collatz sequence](https://projecteuler.net/problem=14)           |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LongestCollatzSequence.java)      | 5% |
 
-## Exercism: 7 in total
+## Exercism: 8 in total
 
 | Question                                                                                      |                                                          Solution                                                           |
 |-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
@@ -124,3 +126,10 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [5. Karl's Languages](https://exercism.org/tracks/java/exercises/karls-languages)             |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LanguageList.java)     |
 | [6. Squeaky Clean](https://exercism.org/tracks/java/exercises/squeaky-clean)                  |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SqueakyClean.java)     |
 | [7. Elon's Toy Car](https://exercism.org/tracks/java/exercises/elons-toy-car)                 |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/ElonsToyCar.java)      |
+| [8. Play Your Cards!](https://exercism.org/tracks/java/exercises/blackjack)                   |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Blackjack.java)       |
+
+## HackerRank: 1 in total
+
+| Question                                                                             |                                                        Solution                                                        | Difficulty |
+|--------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------:|:----------:|
+| [1. Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/WelcomeToJava.java) |    Easy    |
