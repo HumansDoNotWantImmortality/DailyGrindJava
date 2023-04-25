@@ -1,4 +1,4 @@
-# DailyGrindJava: 104 in total
+# DailyGrindJava: 105 in total
 
 Daily dose of Java.
 
@@ -131,9 +131,10 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [8. Play Your Cards!](https://exercism.org/tracks/java/exercises/blackjack)                   |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Blackjack.java)       |
 | [9. Need for Speed](https://exercism.org/tracks/java/exercises/need-for-speed/iterations)     |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/NeedForSpeed.java)     |
 
-## HackerRank: 2 in total
+## HackerRank: 3 in total
 
 | Question                                                                                            |                                                           Solution                                                           | Difficulty |
 |-----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------:|:----------:|
 | [1. Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/WelcomeToJava.java)    |    Easy    |
 | [2. Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStdinAndStdoutI.java) |    Easy    |
+| [3. Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                       |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIfElse.java)      |    Easy    |
