@@ -1,4 +1,4 @@
-# DailyGrindJava: 111 in total
+# DailyGrindJava: 119 in total
 
 Daily dose of Java.
 
@@ -8,7 +8,7 @@ I made this repository public just to force myself to solve at least one problem
 for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any
 good. Think, break it, use ChatGPT even (it will explain how to get to the solution).
 
-## CodeWars: 78 in total
+## CodeWars: 79 in total
 
 | Question                                                                                                      |                                                                     Solution                                                                     | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -96,8 +96,9 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [15. Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)              |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/Xbonacci.java)         |  6  |
 | [16. Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/NumberUtils.java)        |  6  |
 | [17. Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)          |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/NumberUtils.java)        |  6  |
+| [18. Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)            |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/MorseCodeDecoder.java)     |  6  |
 
-## Project Euler: 17 in total
+## Project Euler: 18 in total
 
 | Question                                                                      |                                                                  Solution                                                                  | ?% |
 |-------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------:|:--:|
@@ -118,8 +119,9 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [15. Longest Collatz sequence](https://projecteuler.net/problem=14)           |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LongestCollatzSequence.java)      | 5% |
 | [16. Lattice paths](https://projecteuler.net/problem=15)                      |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LatticePaths.java)           | 5% |
 | [17. 1000-digit Fibonacci number](https://projecteuler.net/problem=25)        |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LatticePaths.java)           | 5% |
+| [18. Self powers](https://projecteuler.net/problem=48)                        |           [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SelfPowers.java)            | 5% |
 
-## Exercism: 9 in total
+## Exercism: 10 in total
 
 | Question                                                                                      |                                                          Solution                                                           |
 |-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
@@ -132,15 +134,21 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [7. Elon's Toy Car](https://exercism.org/tracks/java/exercises/elons-toy-car)                 |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/ElonsToyCar.java)      |
 | [8. Play Your Cards!](https://exercism.org/tracks/java/exercises/blackjack)                   |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Blackjack.java)       |
 | [9. Need for Speed](https://exercism.org/tracks/java/exercises/need-for-speed/iterations)     |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/NeedForSpeed.java)     |
+| [10. Cars, Assemble!](https://exercism.org/tracks/java/exercises/cars-assemble)               |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/CarsAssemble.java)     |
 
-## HackerRank: 7 in total
+## HackerRank: 12 in total
 
-| Question                                                                                            |                                                           Solution                                                           | Difficulty |
-|-----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------:|:----------:|
-| [1. Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/WelcomeToJava.java)    |    Easy    |
-| [2. Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStdinAndStdoutI.java) |    Easy    |
-| [3. Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                       |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIfElse.java)      |    Easy    |
-| [4. Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)      |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIfElse.java)      |    Easy    |
-| [5. Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)   |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIfElse.java)      |    Easy    |
-| [6. Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                       |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIfElse.java)      |    Easy    |
-| [7. Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)                        |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIfElse.java)      |    Easy    |
+| Question                                                                                                         |                                                              Solution                                                               | Difficulty |
+|------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+| [1. Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                             |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/WelcomeToJava.java)        |    Easy    |
+| [2. Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)              |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStdinAndStdoutI.java)     |    Easy    |
+| [3. Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                                    |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIfElse.java)         |    Easy    |
+| [4. Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)                   |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStdinAndStdoutII.java)    |    Easy    |
+| [5. Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)                |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaOutputFormatting.java)    |    Easy    |
+| [6. Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                                    |         [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaLoopsI.java)         |    Easy    |
+| [7. Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)                                     |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaLoopsII.java)         |    Easy    |
+| [8. Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                                |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaDataTypes.java)        |    Easy    |
+| [9. Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)                            |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaEndOfFile.java)        |    Easy    |
+| [10. Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStaticInitializerBlock.java) |    Easy    |
+| [11. Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaInttoString.java)       |    Easy    |
+| [12. Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaDateandTime.java)       |    Easy    |
