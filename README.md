@@ -1,4 +1,4 @@
-# DailyGrindJava: 122 in total
+# DailyGrindJava: 123 in total
 
 Daily dose of Java.
 
@@ -138,7 +138,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [10. Cars, Assemble!](https://exercism.org/tracks/java/exercises/cars-assemble)               |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/CarsAssemble.java)     |
 | [11. Log Levels](https://exercism.org/tracks/java/exercises/log-levels)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LogLevels.java)       |
 
-## HackerRank: 13 in total
+## HackerRank: 14 in total
 
 | Question                                                                                                         |                                                              Solution                                                               | Difficulty |
 |------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -155,3 +155,4 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [11. Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaIntToString.java)       |    Easy    |
 | [12. Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaDateAndTime.java)       |    Easy    |
 | [13. Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)             |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaCurrencyFormatter.java)    |    Easy    |
+| [13. Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)         |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStringsIntroduction.java)   |    Easy    |
