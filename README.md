@@ -1,4 +1,4 @@
-# DailyGrindJava: 128 in total
+# DailyGrindJava: 132 in total
 
 Daily dose of Java.
 
@@ -138,7 +138,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [10. Cars, Assemble!](https://exercism.org/tracks/java/exercises/cars-assemble)               |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/CarsAssemble.java)     |
 | [11. Log Levels](https://exercism.org/tracks/java/exercises/log-levels)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LogLevels.java)       |
 
-## HackerRank: 19 in total
+## HackerRank: 23 in total
 
 | Question                                                                                                         |                                                              Solution                                                               | Difficulty |
 |------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -161,3 +161,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [17. Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)                     |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStringReverse.java)      |    Easy    |
 | [18. Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)                                 |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaAnagrams.java)        |    Easy    |
 | [19. Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaStringTokens.java)      |    Easy    |
+| [20. Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)               |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/PatternSyntaxChecker.java)    |    Easy    |
+| [21. Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)                     |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaPrimalityTest.java)      |    Easy    |
+| [22. Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)                             |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/JavaBigInteger.java)       |    Easy    |
+| [23. Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)                    |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/Java1DArray.java)         |    Easy    |
