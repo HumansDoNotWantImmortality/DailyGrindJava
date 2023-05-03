@@ -122,22 +122,23 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [17. 1000-digit Fibonacci number](https://projecteuler.net/problem=25)        |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LatticePaths.java)           | 5% |
 | [18. Self powers](https://projecteuler.net/problem=48)                        |           [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SelfPowers.java)            | 5% |
 
-## Exercism: 12 in total
+## Exercism: 13 in total
 
-| Question                                                                                      |                                                          Solution                                                           |
-|-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
-| [1. Hello World](https://exercism.org/tracks/java/exercises/hello-world)                      |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Greeter.java)        |
-| [2. Cook your lasagna](https://exercism.org/tracks/java/exercises/lasagna)                    |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Lasagna.java)        |
-| [3. Annalyn's Infiltration](https://exercism.org/tracks/java/exercises/annalyns-infiltration) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/AnnalynsInfiltration.java) |
-| [4. Bird Watcher](https://exercism.org/tracks/java/exercises/bird-watcher)                    |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/BirdWatcher.java)      |
-| [5. Karl's Languages](https://exercism.org/tracks/java/exercises/karls-languages)             |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LanguageList.java)     |
-| [6. Squeaky Clean](https://exercism.org/tracks/java/exercises/squeaky-clean)                  |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SqueakyClean.java)     |
-| [7. Elon's Toy Car](https://exercism.org/tracks/java/exercises/elons-toy-car)                 |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/ElonsToyCar.java)      |
-| [8. Play Your Cards!](https://exercism.org/tracks/java/exercises/blackjack)                   |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Blackjack.java)       |
-| [9. Need for Speed](https://exercism.org/tracks/java/exercises/need-for-speed/iterations)     |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/NeedForSpeed.java)     |
-| [10. Cars, Assemble!](https://exercism.org/tracks/java/exercises/cars-assemble)               |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/CarsAssemble.java)     |
-| [11. Log Levels](https://exercism.org/tracks/java/exercises/log-levels)                       |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LogLevels.java)       |
-| [12. Salary Calculator](https://exercism.org/tracks/java/exercises/salary-calculator)         |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SalaryCalculator.java)   |
+| Question                                                                                        |                                                          Solution                                                           |
+|-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
+| [1. Hello World](https://exercism.org/tracks/java/exercises/hello-world)                        |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Greeter.java)        |
+| [2. Cook your lasagna](https://exercism.org/tracks/java/exercises/lasagna)                      |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Lasagna.java)        |
+| [3. Annalyn's Infiltration](https://exercism.org/tracks/java/exercises/annalyns-infiltration)   | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/AnnalynsInfiltration.java) |
+| [4. Bird Watcher](https://exercism.org/tracks/java/exercises/bird-watcher)                      |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/BirdWatcher.java)      |
+| [5. Karl's Languages](https://exercism.org/tracks/java/exercises/karls-languages)               |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LanguageList.java)     |
+| [6. Squeaky Clean](https://exercism.org/tracks/java/exercises/squeaky-clean)                    |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SqueakyClean.java)     |
+| [7. Elon's Toy Car](https://exercism.org/tracks/java/exercises/elons-toy-car)                   |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/ElonsToyCar.java)      |
+| [8. Play Your Cards!](https://exercism.org/tracks/java/exercises/blackjack)                     |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Blackjack.java)       |
+| [9. Need for Speed](https://exercism.org/tracks/java/exercises/need-for-speed/iterations)       |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/NeedForSpeed.java)     |
+| [10. Cars, Assemble!](https://exercism.org/tracks/java/exercises/cars-assemble)                 |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/CarsAssemble.java)     |
+| [11. Log Levels](https://exercism.org/tracks/java/exercises/log-levels)                         |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LogLevels.java)       |
+| [12. Salary Calculator](https://exercism.org/tracks/java/exercises/salary-calculator)           |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SalaryCalculator.java)   |
+| [12. Football Match Reports](https://exercism.org/tracks/java/exercises/football-match-reports) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/FootballMatchReports.java) |
 
 ## HackerRank: 23 in total
 
