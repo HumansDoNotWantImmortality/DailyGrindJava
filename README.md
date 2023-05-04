@@ -1,4 +1,4 @@
-# DailyGrindJava: 133 in total
+# DailyGrindJava: 135 in total
 
 Daily dose of Java.
 
@@ -122,7 +122,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [17. 1000-digit Fibonacci number](https://projecteuler.net/problem=25)        |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LatticePaths.java)           | 5% |
 | [18. Self powers](https://projecteuler.net/problem=48)                        |           [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SelfPowers.java)            | 5% |
 
-## Exercism: 13 in total
+## Exercism: 14 in total
 
 | Question                                                                                        |                                                          Solution                                                           |
 |-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
@@ -138,7 +138,8 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [10. Cars, Assemble!](https://exercism.org/tracks/java/exercises/cars-assemble)                 |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/CarsAssemble.java)     |
 | [11. Log Levels](https://exercism.org/tracks/java/exercises/log-levels)                         |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/LogLevels.java)       |
 | [12. Salary Calculator](https://exercism.org/tracks/java/exercises/salary-calculator)           |   [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/SalaryCalculator.java)   |
-| [12. Football Match Reports](https://exercism.org/tracks/java/exercises/football-match-reports) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/FootballMatchReports.java) |
+| [13. Football Match Reports](https://exercism.org/tracks/java/exercises/football-match-reports) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/FootballMatchReports.java) |
+| [14. Wizards and Warriors](https://exercism.org/tracks/java/exercises/wizards-and-warriors)     |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Fighter.java)        |
 
 ## HackerRank: 23 in total
 
