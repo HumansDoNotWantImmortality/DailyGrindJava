@@ -1,4 +1,4 @@
-# DailyGrindJava: 137 in total
+# DailyGrindJava: 138 in total
 
 Daily dose of Java.
 
@@ -122,7 +122,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [17. 1000-digit Fibonacci number](https://projecteuler.net/problem=25)        |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/LatticePaths.java)           | 5% |
 | [18. Self powers](https://projecteuler.net/problem=48)                        |           [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/projectEuler/SelfPowers.java)            | 5% |
 
-## Exercism: 16 in total
+## Exercism: 17 in total
 
 | Question                                                                                        |                                                          Solution                                                           |
 |-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------:|
@@ -141,7 +141,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [13. Football Match Reports](https://exercism.org/tracks/java/exercises/football-match-reports) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/FootballMatchReports.java) |
 | [14. Wizards and Warriors](https://exercism.org/tracks/java/exercises/wizards-and-warriors)     |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Fighter.java)        |
 | [15. Two Fer](https://exercism.org/tracks/java/exercises/two-fer)                               |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Twofer.java)        |
-| [15. Hamming](https://exercism.org/tracks/java/exercises/hamming)                               |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Hamming.java)        |
+| [17. Gigasecond](https://exercism.org/tracks/java/exercises/gigasecond)                         |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/exercism/Gigasecond.java)      |
 
 ## HackerRank: 23 in total
 
