@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="update: [README.md] problems added:&#10;- HackerRank/Easy/Java Stdin and Stdout II &#10;- HackerRank/Easy/Java Output Formatting&#10;- HackerRank/Easy/Java Loops I&#10;- HackerRank/Easy/Java Loops II">
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,19 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="35c29e6c-09ab-4352-8a84-6ca13e69b3b1" />
-        <option name="url" value="https://github.com/HumansDoNotWantImmortality/DailyGrindJava.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -153,39 +141,230 @@
       <workItem from="1679328147567" duration="584000" />
       <workItem from="1679331737378" duration="9000" />
       <workItem from="1679343151506" duration="674000" />
-      <workItem from="1682181792028" duration="56000" />
-      <workItem from="1682181895932" duration="70000" />
-      <workItem from="1682184040926" duration="50000" />
-      <workItem from="1682186275596" duration="19000" />
-      <workItem from="1682186948585" duration="4000" />
-      <workItem from="1682186996126" duration="594000" />
-      <workItem from="1682188635517" duration="502000" />
-      <workItem from="1682245693122" duration="12000" />
-      <workItem from="1682265023150" duration="1558000" />
-      <workItem from="1682337370816" duration="16000" />
-      <workItem from="1682358087070" duration="1705000" />
-      <workItem from="1682443506503" duration="63000" />
-      <workItem from="1682443612735" duration="305000" />
-      <workItem from="1682538036325" duration="1096000" />
-      <workItem from="1682543744075" duration="485000" />
-      <workItem from="1682586479407" duration="12000" />
-      <workItem from="1682593822004" duration="158000" />
-      <workItem from="1682593990820" duration="65000" />
-      <workItem from="1682594180371" duration="1160000" />
-      <workItem from="1682712123875" duration="997000" />
-      <workItem from="1682761976481" duration="27000" />
-      <workItem from="1682803378684" duration="251000" />
-      <workItem from="1682847791800" duration="113000" />
-      <workItem from="1682889191890" duration="623000" />
-      <workItem from="1682935291715" duration="1270000" />
-      <workItem from="1683056354220" duration="1329000" />
-      <workItem from="1683126053801" duration="225000" />
-      <workItem from="1683198942241" duration="7000" />
-      <workItem from="1683233898394" duration="271000" />
-      <workItem from="1683288384315" duration="15000" />
-      <workItem from="1683303013858" duration="16000" />
-      <workItem from="1683315396753" duration="2567000" />
-      <workItem from="1683396230907" duration="305000" />
+    </task>
+    <task id="LOCAL-00010" summary="CodeWars/8kyu/String repeat/Solution">
+      <created>1678214156751</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214156751</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CodeWars/8kyu/Square(n) Sum/Solution">
+      <created>1678214285015</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214285015</updated>
+    </task>
+    <task id="LOCAL-00012" summary="CodeWars/8kyu/Grasshopper - Summation/Solution">
+      <created>1678214349259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214349259</updated>
+    </task>
+    <task id="LOCAL-00013" summary="CodeWars/8kyu/Grasshopper - Summation/Solution">
+      <created>1678214411539</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214411539</updated>
+    </task>
+    <task id="LOCAL-00014" summary="CodeWars/8kyu/Remove String Spaces/Solution">
+      <created>1678214494758</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214494758</updated>
+    </task>
+    <task id="LOCAL-00015" summary="CodeWars/8kyu/Find the smallest integer in the array/Solution">
+      <created>1678303698737</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678303698738</updated>
+    </task>
+    <task id="LOCAL-00016" summary="CodeWars/8kyu/Counting sheep.../Solution">
+      <created>1678303891259</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678303891259</updated>
+    </task>
+    <task id="LOCAL-00017" summary="CodeWars/8kyu/Century From Year/Solution">
+      <created>1678304359687</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678304359687</updated>
+    </task>
+    <task id="LOCAL-00018" summary="CodeWars/8kyu/Keep Hydrated!/Solution">
+      <created>1678304590917</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678304590917</updated>
+    </task>
+    <task id="LOCAL-00019" summary="CodeWars/8kyu/Basic Mathematical Operations/Solution">
+      <created>1678304843379</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678304843379</updated>
+    </task>
+    <task id="LOCAL-00020" summary="CodeWars/8kyu/Abbreviate a Two Word Name/Solution">
+      <created>1678390949669</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678390949669</updated>
+    </task>
+    <task id="LOCAL-00021" summary="CodeWars/8kyu/Is n divisible by x and y?/Solution">
+      <created>1678391131303</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678391131303</updated>
+    </task>
+    <task id="LOCAL-00022" summary="CodeWars/8kyu/Convert a String to a Number!/Solution">
+      <created>1678483621521</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1678483621521</updated>
+    </task>
+    <task id="LOCAL-00023" summary="CodeWars/8kyu/Beginner - Lost Without a Map/Solution">
+      <created>1678483760599</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678483760599</updated>
+    </task>
+    <task id="LOCAL-00024" summary="CodeWars/8kyu/Returning Strings/Solution">
+      <created>1678483862093</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678483862093</updated>
+    </task>
+    <task id="LOCAL-00025" summary="CodeWars/8kyu/A Needle in the Haystack/Solution">
+      <created>1678484008002</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678484008002</updated>
+    </task>
+    <task id="LOCAL-00026" summary="CodeWars/8kyu/Function 1 - hello world/Solution">
+      <created>1678572135939</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678572135939</updated>
+    </task>
+    <task id="LOCAL-00027" summary="CodeWars/8kyu/Beginner Series #2 Clock/Solution">
+      <created>1678572202606</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1678572202606</updated>
+    </task>
+    <task id="LOCAL-00028" summary="CodeWars/8kyu/Opposites Attract/Solution">
+      <created>1678572262961</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1678572262961</updated>
+    </task>
+    <task id="LOCAL-00029" summary="CodeWars/8kyu/Convert a Boolean to a String/Solution">
+      <created>1678643379277</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1678643379277</updated>
+    </task>
+    <task id="LOCAL-00030" summary="CodeWars/8kyu/Count of positives / sum of negatives/Solution">
+      <created>1678643634293</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1678643634293</updated>
+    </task>
+    <task id="LOCAL-00031" summary="CodeWars/8kyu/Invert values/Solution">
+      <created>1678644112952</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1678644112952</updated>
+    </task>
+    <task id="LOCAL-00032" summary="CodeWars/7kyu/Vowel Count/Solution">
+      <created>1678727521885</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1678727521885</updated>
+    </task>
+    <task id="LOCAL-00033" summary="CodeWars/7kyu/Disemvowel Trolls/Solution">
+      <created>1678727584923</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1678727584923</updated>
+    </task>
+    <task id="LOCAL-00034" summary="CodeWars/7kyu/Digit*Digit/Solution">
+      <created>1678727720059</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1678727720059</updated>
+    </task>
+    <task id="LOCAL-00035" summary="CodeWars/7kyu/Highest and Lowest/Solution">
+      <created>1678826268232</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1678826268232</updated>
+    </task>
+    <task id="LOCAL-00036" summary="CodeWars/7kyu/Descending Order/Solution">
+      <created>1678826322663</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1678826322663</updated>
+    </task>
+    <task id="LOCAL-00037" summary="CodeWars/7kyu/Descending Order/Solution">
+      <created>1678826377160</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1678826377160</updated>
+    </task>
+    <task id="LOCAL-00038" summary="CodeWars/7kyu/Get The Middle Character/Solution">
+      <created>1678826401432</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1678826401432</updated>
+    </task>
+    <task id="LOCAL-00039" summary="CodeWars/7kyu/Mumbling/Solution">
+      <created>1678916133335</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1678916133335</updated>
+    </task>
+    <task id="LOCAL-00040" summary="CodeWars/7kyu/You're a square!/Solution">
+      <created>1678916216203</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1678916216203</updated>
+    </task>
+    <task id="LOCAL-00041" summary="CodeWars/7kyu/List Filtering/Solution">
+      <created>1678916455827</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1678916455827</updated>
     </task>
     <task id="LOCAL-00042" summary="CodeWars/7kyu/Isograms/Solution">
       <created>1679002800610</created>
@@ -306,262 +485,38 @@
       <option name="project" value="LOCAL" />
       <updated>1679343495923</updated>
     </task>
-    <task id="LOCAL-00059" summary="feat: Project Euler 5% Large sum - solution added">
-      <created>1682181958263</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1682181958264</updated>
-    </task>
-    <task id="LOCAL-00060" summary="feat: CodeWars 6 kyu Convert string to camel case and Exercism Elon's Toy Car - solutions added">
-      <created>1682187200646</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187200646</updated>
-    </task>
-    <task id="LOCAL-00061" summary="update: [README.md] problems added:&#10;- CodeWars 6 kyu Convert string to camel case,&#10;- Exercism Elon's Toy Car,&#10;- Project Euler Large sum.">
-      <created>1682187569916</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1682187569917</updated>
-    </task>
-    <task id="LOCAL-00062" summary="feat: solutions to problems added:&#10;- CodeWars/6 kyu/Tribonacci Sequence;&#10;- Project Euler/5%/Longest Collatz sequence;&#10;- Exercism/Play Your Cards!&#10;- HackerRank/Easy/Welcome to Java!">
-      <created>1682266036963</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1682266036964</updated>
-    </task>
-    <task id="LOCAL-00063" summary="update: [README.md] problems added:&#10;- CodeWars/6 kyu/Tribonacci Sequence;&#10;- Project Euler/5%/Longest Collatz sequence;&#10;- Exercism/Play Your Cards!&#10;- HackerRank/Easy/Welcome to Java!">
-      <created>1682266578335</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1682266578335</updated>
-    </task>
-    <task id="LOCAL-00064" summary="feat: solutions added:&#10;- CodeWars/6 kyu/Does my number look big in this?;&#10;- Project Euler/5%/https://projecteuler.net/problem=15;&#10;- Exercism/Need for Speed&#10;- HackerRank/Easy/Java Stdin and Stdout I">
-      <created>1682358549249</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1682358549249</updated>
-    </task>
-    <task id="LOCAL-00065" summary="update: [README.md] problems added:&#10;- CodeWars/6 kyu/Does my number look big in this?;&#10;- Project Euler/5%/https://projecteuler.net/problem=15;&#10;- Exercism/Need for Speed&#10;- HackerRank/Easy/Java Stdin and Stdout I">
-      <created>1682359800761</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1682359800761</updated>
-    </task>
-    <task id="LOCAL-00066" summary="feat: solution added:&#10;- HackerRank/Easy/Java If-Else">
-      <created>1682443802490</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1682443802491</updated>
-    </task>
-    <task id="LOCAL-00067" summary="update: [README.md] problem added:&#10;- HackerRank/Easy/Java If-Else">
-      <created>1682443909442</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1682443909442</updated>
-    </task>
-    <task id="LOCAL-00068" summary="feat: solutions added:&#10;- HackerRank/Easy/Java Stdin and Stdout II&#10;- HackerRank/Easy/Java Output Formatting&#10;- HackerRank/Easy/Java Loops I&#10;- HackerRank/Easy/Java Loops II&#10;- CodeWars/6kyu/Take a Ten Minutes Walk&#10;- Project Euler/5%/1000-digit Fibonacci number">
-      <created>1682539094790</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1682539094791</updated>
-    </task>
-    <task id="LOCAL-00069" summary="update: [README.md] problems added:&#10;- HackerRank/Easy/Java Stdin and Stdout II &#10;- HackerRank/Easy/Java Output Formatting&#10;- HackerRank/Easy/Java Loops I&#10;- HackerRank/Easy/Java Loops II&#10;- Project Euler/5%/1000-digit Fibonacci number&#10;- CodeWars/6 kyu/Take a Ten Minutes Walk">
-      <created>1682544170750</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1682544170751</updated>
-    </task>
-    <task id="LOCAL-00070" summary="update: .idea added to .gitignore">
-      <created>1682544217813</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1682544217813</updated>
-    </task>
-    <task id="LOCAL-00071" summary="feat: solutions added:&#10;- HackerRank/Easy/Java Datatypes &#10;- HackerRank/Easy/Java End-of-file&#10;- HackerRank/Easy/Java Static Initializer Block&#10;- HackerRank/Easy/Java Int to String&#10;- HackerRank/Easy/Java Date and Time&#10;- CodeWars/6 kyu/Decode the Morse code&#10;- Project Euler/5%/Self powers&#10;- Exercism/Cars, Assemble!">
-      <created>1682594648360</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1682594648360</updated>
-    </task>
-    <task id="LOCAL-00072" summary="update/bugfix: links in hackerrnak repaired, [README.md] problem added:&#10;- HackerRank/Easy/Java Datatypes&#10;- HackerRank/Easy/Java End-of-file&#10;- HackerRank/Easy/Java Static Initializer Block&#10;- HackerRank/Easy/Java Int to String&#10;- HackerRank/Easy/Java Date and Time&#10;- CodeWars/6 kyu/Decode the Morse code&#10;- Project Euler/5%/Self powers&#10;- Exercism/Cars, Assemble!">
-      <created>1682595343427</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1682595343427</updated>
-    </task>
-    <task id="LOCAL-00073" summary="feat: problems solved:&#10;- HackerRank/Easy/Java Currency Formatter&#10;- CodeWars/6 kyu/Playing with digits&#10;- Exercism/Log Levels">
-      <created>1682712493908</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1682712493909</updated>
-    </task>
-    <task id="LOCAL-00074" summary="update/bugfix: links in hackerrank fixed. [README.md] problems added:&#10;- HackerRank/Easy/Java Currency Formatter&#10;- CodeWars/6 kyu/Playing with digits&#10;- Exercism/Log Levels">
-      <created>1682713124608</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1682713124608</updated>
-    </task>
-    <task id="LOCAL-00075" summary="feat: problem solution added:&#10;- HackerRank/Easy/Java Strings Introduction">
-      <created>1682803516261</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1682803516262</updated>
-    </task>
-    <task id="LOCAL-00076" summary="update: [README.md] problems added:&#10;- HackerRank/Easy/Java Strings Introduction">
-      <created>1682803627238</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1682803627238</updated>
-    </task>
-    <task id="LOCAL-00077" summary="feat: solutions added:&#10;- HackerRank/Easy/Java Substring&#10;- HackerRank/Easy/Java Substring Comparisons&#10;- HackerRank/Easy/Java String Reverse&#10;- HackerRank/Easy/Java Anagrams&#10;- HackerRank/Easy/Java String Tokens">
-      <created>1682889454328</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1682889454329</updated>
-    </task>
-    <task id="LOCAL-00078" summary="update: [README.md] problems added:&#10;- HackerRank/Easy/Java Substring&#10;- HackerRank/Easy/Java Substring Comparisons&#10;- HackerRank/Easy/Java String Reverse&#10;- HackerRank/Easy/Java Anagrams&#10;- HackerRank/Easy/Java String Tokens">
-      <created>1682889818886</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1682889818886</updated>
-    </task>
-    <task id="LOCAL-00079" summary="update: solutions added:&#10;- HackerRank/Easy/Java 1D Array &#10;- HackerRank/Easy/Java BigInteger&#10;- HackerRank/Easy/Java Primality Test&#10;- HackerRank/Easy/Pattern Syntax Checker">
-      <created>1682935769576</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1682935769577</updated>
-    </task>
-    <task id="LOCAL-00080" summary="update: [README.md] problems added:&#10;- HackerRank/Easy/Java 1D Array&#10;- HackerRank/Easy/Java BigInteger&#10;- HackerRank/Easy/Java Primality Test&#10;- HackerRank/Easy/Pattern Syntax Checker">
-      <created>1682936393237</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1682936393237</updated>
-    </task>
-    <task id="LOCAL-00081" summary="feat: Exercism Salary Calculator solution added">
-      <created>1683058795684</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1683058795684</updated>
-    </task>
-    <task id="LOCAL-00082" summary="update: [README.md] Exercism Salary Calculator problem added">
-      <created>1683058880204</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1683058880204</updated>
-    </task>
-    <task id="LOCAL-00083" summary="feat: Exercism Football Match Reports solutiond added">
-      <created>1683126135113</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1683126135113</updated>
-    </task>
-    <task id="LOCAL-00084" summary="update: [README.md] Football Match Reports">
-      <created>1683126207938</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1683126207938</updated>
-    </task>
-    <task id="LOCAL-00085" summary="feat: Exercism Wizards and Warriors solution added">
-      <created>1683234001253</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1683234001253</updated>
-    </task>
-    <task id="LOCAL-00086" summary="update: [README.md] Exercism Wizards and Warriors problem added">
-      <created>1683234061819</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1683234061819</updated>
-    </task>
-    <task id="LOCAL-00087" summary="feat: Exercism Two Fer solution added">
-      <created>1683321842134</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1683321842134</updated>
-    </task>
-    <task id="LOCAL-00088" summary="update: [README.md] Exercism Two Fer problem added">
-      <created>1683321901648</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1683321901648</updated>
-    </task>
-    <task id="LOCAL-00089" summary="feat: Exercism Hamming solution added">
-      <created>1683396463004</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1683396463004</updated>
-    </task>
-    <task id="LOCAL-00090" summary="update: [README.md] Exercism Hamming problem added">
-      <created>1683396528872</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1683396528872</updated>
-    </task>
-    <option name="localTasksCounter" value="91" />
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: solution added:&#10;- HackerRank/Easy/Java If-Else" />
-    <MESSAGE value="update: [README.md] problem added:&#10;- HackerRank/Easy/Java If-Else" />
-    <MESSAGE value="feat: solutions added:&#10;- HackerRank/Easy/Java Stdin and Stdout II&#10;- HackerRank/Easy/Java Output Formatting&#10;- HackerRank/Easy/Java Loops I&#10;- HackerRank/Easy/Java Loops II&#10;- CodeWars/6kyu/Take a Ten Minutes Walk&#10;- Project Euler/5%/1000-digit Fibonacci number" />
-    <MESSAGE value="update: [README.md] problems added:&#10;- HackerRank/Easy/Java Stdin and Stdout II &#10;- HackerRank/Easy/Java Output Formatting&#10;- HackerRank/Easy/Java Loops I&#10;- HackerRank/Easy/Java Loops II&#10;- Project Euler/5%/1000-digit Fibonacci number&#10;- CodeWars/6 kyu/Take a Ten Minutes Walk" />
-    <MESSAGE value="update: .idea added to .gitignore" />
-    <MESSAGE value="feat: solutions added:&#10;- HackerRank/Easy/Java Datatypes &#10;- HackerRank/Easy/Java End-of-file&#10;- HackerRank/Easy/Java Static Initializer Block&#10;- HackerRank/Easy/Java Int to String&#10;- HackerRank/Easy/Java Date and Time&#10;- CodeWars/6 kyu/Decode the Morse code&#10;- Project Euler/5%/Self powers&#10;- Exercism/Cars, Assemble!" />
-    <MESSAGE value="update/bugfix: links in hackerrnak repaired, [README.md] problem added:&#10;- HackerRank/Easy/Java Datatypes&#10;- HackerRank/Easy/Java End-of-file&#10;- HackerRank/Easy/Java Static Initializer Block&#10;- HackerRank/Easy/Java Int to String&#10;- HackerRank/Easy/Java Date and Time&#10;- CodeWars/6 kyu/Decode the Morse code&#10;- Project Euler/5%/Self powers&#10;- Exercism/Cars, Assemble!" />
-    <MESSAGE value="feat: problems solved:&#10;- HackerRank/Easy/Java Currency Formatter&#10;- CodeWars/6 kyu/Playing with digits&#10;- Exercism/Log Levels" />
-    <MESSAGE value="update/bugfix: links in hackerrank fixed. [README.md] problems added:&#10;- HackerRank/Easy/Java Currency Formatter&#10;- CodeWars/6 kyu/Playing with digits&#10;- Exercism/Log Levels" />
-    <MESSAGE value="feat: problem solution added:&#10;- HackerRank/Easy/Java Strings Introduction" />
-    <MESSAGE value="update: [README.md] problems added:&#10;- HackerRank/Easy/Java Strings Introduction" />
-    <MESSAGE value="feat: solutions added:&#10;- HackerRank/Easy/Java Substring&#10;- HackerRank/Easy/Java Substring Comparisons&#10;- HackerRank/Easy/Java String Reverse&#10;- HackerRank/Easy/Java Anagrams&#10;- HackerRank/Easy/Java String Tokens" />
-    <MESSAGE value="update: [README.md] problems added:&#10;- HackerRank/Easy/Java Substring&#10;- HackerRank/Easy/Java Substring Comparisons&#10;- HackerRank/Easy/Java String Reverse&#10;- HackerRank/Easy/Java Anagrams&#10;- HackerRank/Easy/Java String Tokens" />
-    <MESSAGE value="update: solutions added:&#10;- HackerRank/Easy/Java 1D Array &#10;- HackerRank/Easy/Java BigInteger&#10;- HackerRank/Easy/Java Primality Test&#10;- HackerRank/Easy/Pattern Syntax Checker" />
-    <MESSAGE value="update: [README.md] problems added:&#10;- HackerRank/Easy/Java 1D Array&#10;- HackerRank/Easy/Java BigInteger&#10;- HackerRank/Easy/Java Primality Test&#10;- HackerRank/Easy/Pattern Syntax Checker" />
-    <MESSAGE value="feat: Exercism Salary Calculator solution added" />
-    <MESSAGE value="update: [README.md] Exercism Salary Calculator problem added" />
-    <MESSAGE value="feat: Exercism Football Match Reports solutiond added" />
-    <MESSAGE value="update: [README.md] Football Match Reports" />
-    <MESSAGE value="feat: Exercism Wizards and Warriors solution added" />
-    <MESSAGE value="update: [README.md] Exercism Wizards and Warriors problem added" />
-    <MESSAGE value="feat: Exercism Two Fer solution added" />
-    <MESSAGE value="update: [README.md] Exercism Two Fer problem added" />
-    <MESSAGE value="feat: Exercism Hamming solution added" />
-    <MESSAGE value="update: [README.md] Exercism Hamming problem added" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: [README.md] Exercism Hamming problem added" />
+    <MESSAGE value="CodeWars/7kyu/Vowel Count/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Disemvowel Trolls/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Digit*Digit/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Highest and Lowest/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Descending Order/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Get The Middle Character/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Mumbling/Solution" />
+    <MESSAGE value="CodeWars/7kyu/You're a square!/Solution" />
+    <MESSAGE value="CodeWars/7kyu/List Filtering/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Isograms/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Exes and Ohs/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Shortest Word/Solution" />
+    <MESSAGE value="CodeWars/8kyu/Convert number to reversed array of digits/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Jaden Casing Strings/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Complementary DNA/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Credit Card Mask/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Beginner Series #3 Sum of Numbers/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Two to One/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Printer Errors/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Find the next perfect square!/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Growth of a Population/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Regex validate PIN code/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Binary Addition/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Is this a triangle?/Solution" />
+    <MESSAGE value="CodeWars/7kyu/Sum of odd numbers/Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Sum of odd numbers/Solution" />
   </component>
 </project>
