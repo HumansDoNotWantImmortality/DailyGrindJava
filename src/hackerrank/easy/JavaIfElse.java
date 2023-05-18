@@ -1,10 +1,10 @@
-package hackerrank;
+package hackerrank.easy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class JavaLoopsI {
+public class JavaIfElse {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -13,9 +13,10 @@ public class JavaLoopsI {
 
         reader.close();
 
-        for (int i = 1; i <= 10; i++) {
-            int product = N * i;
-            System.out.printf("%d x %d = %d%n", N, i, product);
+        if (N % 2 != 0 || (N >= 6 && N <= 20)) {
+            System.out.println("Weird");
+        } else if ((N >= 2 && N <= 5) || N > 20) {
+            System.out.println("Not Weird");
         }
     }
 }

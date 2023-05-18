@@ -1,4 +1,4 @@
-package hackerrank;
+package hackerrank.easy;
 
 import java.text.NumberFormat;
 import java.util.Locale;
