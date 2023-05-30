@@ -19,10 +19,12 @@ public class JavaRegex2DuplicateWords {
 
             Matcher m = p.matcher(input);
 
+            // Check for subsequences of input that match the compiled pattern
             while (m.find()) {
                 input = input.replaceAll(m.group(), m.group(1));
             }
 
+            // Prints the modified sentence.
             System.out.println(input);
         }
 
