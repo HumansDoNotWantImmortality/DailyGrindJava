@@ -1,4 +1,4 @@
-# DailyGrindJava: 165 in total
+# DailyGrindJava: 179 in total
 
 Daily dose of Java.
 
@@ -149,7 +149,7 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [21. Triangle](https://exercism.org/tracks/java/exercises/triangle)                             |          [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/tree/master/src/exercism/secrethandshake)           |
 | [22. Rotational Cipher](https://exercism.org/tracks/java/exercises/rotational-cipher)           |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/tree/master/src/exercism/RotationalCipher.java)        |
 
-## HackerRank: 45 in total
+## HackerRank: 59 in total
 
 | Question                                                                                                                             |                                                                  Solution                                                                   | Difficulty |
 |--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|
@@ -198,6 +198,20 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [43. Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)                                               |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/easy/JavaFactoryPattern.java)       |    Easy    |
 | [44. Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)                                          |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/easy/CovariantReturnTypes.java)      |    Easy    |
 
-| Question                                                                  |                                                         Solution                                                          | Difficulty |
-|---------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------:|:----------:|
-| [1. Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaRegex.java) |   Medium   |
+| Question                                                                                             |                                                                 Solution                                                                 | Difficulty |
+|------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+| [1. Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)                            |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaRegex.java)         |   Medium   |
+| [2. Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)    | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaRegex2DuplicateWords.java) |   Medium   |
+| [3. Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)                  |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaComparator.java)      |   Medium   |
+| [4. Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)                  |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaBigDecimal.java)      |   Medium   |
+| [5. Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)             |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/Java1DArrayPart2.java)     |   Medium   |
+| [6. Java Stack](https://www.hackerrank.com/challenges/java-stack/problem)                            |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaStack.java)         |   Medium   |
+| [7. Java Dequeue](https://www.hackerrank.com/challenges//java-dequeue/problem)                       |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaDequeue.java)        |   Medium   |
+| [8. Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)          |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaPriorityQueue.java)     |   Medium   |
+| [9. Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)                   |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/CanYouAccess.java)       |   Medium   |
+| [10. Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)                     |       [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/PrimeChecker.java)       |   Medium   |
+| [11. Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaLambdaExpressions.java)   |   Medium   |
+| [12. Java MD5](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)                |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaLambdaExpressions.java)   |   Medium   |
+| [13. Java SHA-256](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)            |  [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaLambdaExpressions.java)   |   Medium   |
+| [14. Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)               |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaAnnotations.java)      |   Medium   |
+| [15. Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)        |    [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/hackerrank/medium/JavaVisitorPattern.java)    |   Medium   |
