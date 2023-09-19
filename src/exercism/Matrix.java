@@ -1,23 +1,41 @@
 package exercism;
 
-import java.util.Arrays;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
 
-public class Matrix {
+import static java.util.stream.IntStream.range;
 
-    private int[][] matrix;
-    Matrix(String matrixAsString) {
+class Matrix {
 
-        matrix = Arrays.stream(matrixAsString.split("\n"))
-                .map(row -> Arrays.stream(row.split("\\s"))
-                        .mapToInt(Integer::parseInt).toArray())
-                .toArray(int[][]::new);
+    private final int rows;
+    private final int columns;
+    private final int[] rowsMax;
+    private final int[] columnsMin;
+
+    Matrix(List<List<Integer>> values) {
+        this.rows = values.size();
+        this.columns = rows > 0 ? values.get(0).size() : 0;
+
+        this.rowsMax = values.stream()
+                .mapToInt(row -> row.stream()
+                        .mapToInt(Integer::intValue)
+                        .max().orElseThrow())
+                .toArray();
+
+        this.columnsMin = range(0, columns)
+                .map(column -> range(0, rows)
+                        .map(i -> values.get(i)
+                                .get(column)).min()
+                        .orElseThrow())
+                .toArray();
     }
 
-    int[] getRow(int rowNumber) {
-        return matrix[rowNumber - 1];
-    }
-
-    int[] getColumn(int columnNumber) {
-        return Arrays.stream(matrix).mapToInt(row -> row[columnNumber - 1]).toArray();
+    Set <MatrixCoordinate> getSaddlePoints() {
+        return range(0, rows).boxed()
+                .flatMap(row -> range(0, columns)
+                        .filter(column -> rowsMax[row] == columnsMin[column])
+                        .mapToObj(column -> new MatrixCoordinate(row + 1, column + 1)))
+                .collect(Collectors.toSet());
     }
 }
