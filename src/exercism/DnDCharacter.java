@@ -31,8 +31,6 @@ public class DnDCharacter {
         List<Integer> copy = new ArrayList<>(scores);
         copy.remove(Collections.min(copy));
 
-        int lowest = Collections.min(copy);
-
         return copy.stream()
                 .mapToInt(Integer::intValue)
                 .sum();
