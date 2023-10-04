@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="">
+    <list default="true" id="a65ae0b1-00eb-4779-8f8f-771f62ed1437" name="Changes" comment="feat: CodeWars/6kyu/Detect Panagram solution added">
+      <change afterPath="$PROJECT_DIR$/src/codewars/kyu5/RgbToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercism/Darts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercism/MicroBlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercism/PigLatinTranslator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercism/LogLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercism/LogLine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +21,38 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="exercism_reverse_string" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="HumansDoNotWantImmortality" />
+        <option name="repository" value="DailyGrindJava" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="35c29e6c-09ab-4352-8a84-6ca13e69b3b1" />
+        <option name="url" value="https://github.com/HumansDoNotWantImmortality/DailyGrindJava.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,20 +71,28 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IIDEA-plugins/CodeGymIdeaPlugin.jar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InvertValues">
-    <configuration name="CenturyFromYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.kyu8.CenturyFromYear" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exercism" />
+      <recent name="hackerrank.medium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RgbToHex">
+    <configuration name="DnDCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercism.DnDCharacter" />
       <module name="DailyGrind" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.kyu8.*" />
+          <option name="PATTERN" value="exercism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.kyu8.InvertValues" />
+    <configuration name="Grains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercism.Grains" />
       <module name="DailyGrind" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.kyu8.*" />
+          <option name="PATTERN" value="exercism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeepHydrated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.kyu8.KeepHydrated" />
+    <configuration name="MicroBlog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercism.MicroBlog" />
       <module name="DailyGrind" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.kyu8.*" />
+          <option name="PATTERN" value="exercism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.kyu8.ReturnNegative" />
+    <configuration name="ResistorColorDuo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercism.ResistorColorDuo" />
       <module name="DailyGrind" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.kyu8.*" />
+          <option name="PATTERN" value="exercism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RgbToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.kyu5.RgbToHex" />
+      <module name="DailyGrind" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.kyu5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,10 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InvertValues" />
-        <item itemvalue="Application.KeepHydrated" />
-        <item itemvalue="Application.CenturyFromYear" />
-        <item itemvalue="Application.ReturnNegative" />
+        <item itemvalue="Application.RgbToHex" />
+        <item itemvalue="Application.MicroBlog" />
+        <item itemvalue="Application.ResistorColorDuo" />
+        <item itemvalue="Application.Grains" />
+        <item itemvalue="Application.DnDCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -141,382 +194,503 @@
       <workItem from="1679328147567" duration="584000" />
       <workItem from="1679331737378" duration="9000" />
       <workItem from="1679343151506" duration="674000" />
+      <workItem from="1683577050763" duration="636000" />
+      <workItem from="1683667292954" duration="80000" />
+      <workItem from="1683667381480" duration="123000" />
+      <workItem from="1683707931201" duration="50000" />
+      <workItem from="1683752425094" duration="909000" />
+      <workItem from="1683805356348" duration="1000" />
+      <workItem from="1683816054347" duration="4662000" />
+      <workItem from="1683920762211" duration="819000" />
+      <workItem from="1684000921809" duration="39000" />
+      <workItem from="1684009100351" duration="7000" />
+      <workItem from="1684013023352" duration="64000" />
+      <workItem from="1684098072718" duration="345000" />
+      <workItem from="1684186866191" duration="80000" />
+      <workItem from="1684254275735" duration="2598000" />
+      <workItem from="1684357295899" duration="626000" />
+      <workItem from="1684442128957" duration="2495000" />
+      <workItem from="1684498571759" duration="1552000" />
+      <workItem from="1684616583585" duration="418000" />
+      <workItem from="1684699225149" duration="2963000" />
+      <workItem from="1684781093426" duration="681000" />
+      <workItem from="1684857549801" duration="6357000" />
+      <workItem from="1684952374930" duration="4114000" />
+      <workItem from="1685034143113" duration="660000" />
+      <workItem from="1685043742878" duration="508000" />
+      <workItem from="1685108555024" duration="1046000" />
+      <workItem from="1685127988277" duration="602000" />
+      <workItem from="1685204935552" duration="1813000" />
+      <workItem from="1685281131031" duration="49000" />
+      <workItem from="1685291393567" duration="4260000" />
+      <workItem from="1685383631456" duration="38000" />
+      <workItem from="1685459923318" duration="338000" />
+      <workItem from="1685546976635" duration="1065000" />
+      <workItem from="1685570910694" duration="1000" />
+      <workItem from="1685573336773" duration="168000" />
+      <workItem from="1685623003298" duration="6000" />
+      <workItem from="1685645085167" duration="1206000" />
+      <workItem from="1685721605198" duration="14000" />
+      <workItem from="1685726440019" duration="3550000" />
+      <workItem from="1685815724487" duration="12000" />
+      <workItem from="1685821562289" duration="1030000" />
+      <workItem from="1685830166963" duration="611000" />
+      <workItem from="1685885325995" duration="202000" />
+      <workItem from="1685887813721" duration="1257000" />
+      <workItem from="1685980761940" duration="55000" />
+      <workItem from="1685983147849" duration="4574000" />
+      <workItem from="1686056623327" duration="190000" />
+      <workItem from="1686060454865" duration="2494000" />
+      <workItem from="1686144978659" duration="5478000" />
+      <workItem from="1686154110300" duration="7000" />
+      <workItem from="1686228917647" duration="1011000" />
+      <workItem from="1686336894264" duration="147000" />
+      <workItem from="1686352120802" duration="4000" />
+      <workItem from="1686391584446" duration="2026000" />
+      <workItem from="1686572529890" duration="1231000" />
+      <workItem from="1686662603304" duration="4254000" />
+      <workItem from="1686742984205" duration="2000" />
+      <workItem from="1686751478112" duration="2272000" />
+      <workItem from="1686828092239" duration="1008000" />
+      <workItem from="1687027799590" duration="1162000" />
+      <workItem from="1687093061665" duration="1100000" />
+      <workItem from="1687188332328" duration="1058000" />
+      <workItem from="1687267634396" duration="1613000" />
+      <workItem from="1687269283604" duration="6000" />
+      <workItem from="1687269304166" duration="425000" />
+      <workItem from="1687337021195" duration="1180000" />
+      <workItem from="1687426267882" duration="1082000" />
+      <workItem from="1687546980474" duration="426000" />
+      <workItem from="1687605837329" duration="312000" />
+      <workItem from="1687606570432" duration="175000" />
+      <workItem from="1687724715512" duration="217000" />
+      <workItem from="1687729261199" duration="23000" />
+      <workItem from="1687793628564" duration="87000" />
+      <workItem from="1687793723011" duration="20000" />
+      <workItem from="1687880566413" duration="196000" />
+      <workItem from="1687995024107" duration="602000" />
+      <workItem from="1689769766444" duration="9000" />
+      <workItem from="1694176497957" duration="731000" />
+      <workItem from="1694273119588" duration="140000" />
+      <workItem from="1695053817298" duration="5689000" />
+      <workItem from="1695120421337" duration="5625000" />
+      <workItem from="1695164116858" duration="168000" />
+      <workItem from="1695329607162" duration="749000" />
+      <workItem from="1695332888784" duration="1786000" />
+      <workItem from="1695395575325" duration="1822000" />
+      <workItem from="1695413054408" duration="3565000" />
+      <workItem from="1695477077681" duration="3113000" />
+      <workItem from="1695505601046" duration="19000" />
+      <workItem from="1695505832073" duration="20000" />
+      <workItem from="1695561760859" duration="671000" />
+      <workItem from="1695586227002" duration="4889000" />
+      <workItem from="1695658907311" duration="3255000" />
+      <workItem from="1695682427051" duration="4000" />
+      <workItem from="1695682459939" duration="669000" />
+      <workItem from="1695820062838" duration="2961000" />
+      <workItem from="1695911470106" duration="1969000" />
+      <workItem from="1696012924574" duration="1501000" />
+      <workItem from="1696107833450" duration="1681000" />
+      <workItem from="1696352130840" duration="2394000" />
+      <workItem from="1696365948308" duration="2351000" />
+      <workItem from="1696421531389" duration="5903000" />
     </task>
-    <task id="LOCAL-00010" summary="CodeWars/8kyu/String repeat/Solution">
-      <created>1678214156751</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00075" summary="feat: HackerRank/easy/Java Generics and HackerRank/easy/Java Sort solutions added">
+      <created>1684702789733</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
       <option name="project" value="LOCAL" />
-      <updated>1678214156751</updated>
+      <updated>1684702789734</updated>
     </task>
-    <task id="LOCAL-00011" summary="CodeWars/8kyu/Square(n) Sum/Solution">
-      <created>1678214285015</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00076" summary="feat: HackerRank Java Inheritance I solution added">
+      <created>1684781179759</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
       <option name="project" value="LOCAL" />
-      <updated>1678214285015</updated>
+      <updated>1684781179760</updated>
     </task>
-    <task id="LOCAL-00012" summary="CodeWars/8kyu/Grasshopper - Summation/Solution">
-      <created>1678214349259</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00077" summary="feat: HackerRank/easy solutions added:&#10;- Java Inheritance II&#10;- Java Abstract Class&#10;- Java Interface&#10;- Java Method Overriding&#10;- Java Method Overriding 2 (Super Keyword)&#10;- Java Instanceof keyword&#10;- Java Iterator&#10;- Java Exception Handling (Try-catch)&#10;- Java Exception Handling&#10;- Java Varargs - Simple Addition">
+      <created>1684863940155</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
       <option name="project" value="LOCAL" />
-      <updated>1678214349259</updated>
+      <updated>1684863940155</updated>
     </task>
-    <task id="LOCAL-00013" summary="CodeWars/8kyu/Grasshopper - Summation/Solution">
-      <created>1678214411539</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00078" summary="feat: HackerRank/easy/Java BitSet and Java Reflection - Attributes solutions added">
+      <created>1684956492997</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
       <option name="project" value="LOCAL" />
-      <updated>1678214411539</updated>
+      <updated>1684956492998</updated>
     </task>
-    <task id="LOCAL-00014" summary="CodeWars/8kyu/Remove String Spaces/Solution">
-      <created>1678214494758</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00079" summary="feat: HackerRank Valid Username Regular Expression solution added">
+      <created>1685034203602</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1678214494758</updated>
+      <updated>1685034203602</updated>
     </task>
-    <task id="LOCAL-00015" summary="CodeWars/8kyu/Find the smallest integer in the array/Solution">
-      <created>1678303698737</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00080" summary="feat: HackerRank/easy/Java Factory Pattern solution added">
+      <created>1685108999599</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1678303698738</updated>
+      <updated>1685108999600</updated>
     </task>
-    <task id="LOCAL-00016" summary="CodeWars/8kyu/Counting sheep.../Solution">
-      <created>1678303891259</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00081" summary="feat: HackerRank/easy/Java Singleton Pattern and Covariant Return Types solutions added">
+      <created>1685206756625</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1678303891259</updated>
+      <updated>1685206756625</updated>
     </task>
-    <task id="LOCAL-00017" summary="CodeWars/8kyu/Century From Year/Solution">
-      <created>1678304359687</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+    <task id="LOCAL-00082" summary="update: [README.md] HackerRank easy problems from 22 to 45, HacerRank medium problem 1 and Exercism from 17 to 22 problems added">
+      <created>1685295046336</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
       <option name="project" value="LOCAL" />
-      <updated>1678304359687</updated>
+      <updated>1685295046337</updated>
     </task>
-    <task id="LOCAL-00018" summary="CodeWars/8kyu/Keep Hydrated!/Solution">
-      <created>1678304590917</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+    <task id="LOCAL-00083" summary="feat: HackerRank/medium/Java Regex 2 - Duplicate Words solution added">
+      <created>1685460171400</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
       <option name="project" value="LOCAL" />
-      <updated>1678304590917</updated>
+      <updated>1685460171401</updated>
     </task>
-    <task id="LOCAL-00019" summary="CodeWars/8kyu/Basic Mathematical Operations/Solution">
-      <created>1678304843379</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+    <task id="LOCAL-00084" summary="feat: HackerRank/medium/Java Comparator solution added">
+      <created>1685547881497</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
       <option name="project" value="LOCAL" />
-      <updated>1678304843379</updated>
+      <updated>1685547881497</updated>
     </task>
-    <task id="LOCAL-00020" summary="CodeWars/8kyu/Abbreviate a Two Word Name/Solution">
-      <created>1678390949669</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+    <task id="LOCAL-00085" summary="feat: HackerRank/medium/Tag Content Extractor solution added">
+      <created>1685645700516</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
       <option name="project" value="LOCAL" />
-      <updated>1678390949669</updated>
+      <updated>1685645700517</updated>
     </task>
-    <task id="LOCAL-00021" summary="CodeWars/8kyu/Is n divisible by x and y?/Solution">
-      <created>1678391131303</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+    <task id="LOCAL-00086" summary="feat: HackerRank/medium/Java BigDecimal solution added">
+      <created>1685732058412</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
       <option name="project" value="LOCAL" />
-      <updated>1678391131303</updated>
+      <updated>1685732058412</updated>
     </task>
-    <task id="LOCAL-00022" summary="CodeWars/8kyu/Convert a String to a Number!/Solution">
-      <created>1678483621521</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+    <task id="LOCAL-00087" summary="feat: HackerRank/medium/Java 1D Array (Part 2) solutions added">
+      <created>1685827856211</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
       <option name="project" value="LOCAL" />
-      <updated>1678483621521</updated>
+      <updated>1685827856211</updated>
     </task>
-    <task id="LOCAL-00023" summary="CodeWars/8kyu/Beginner - Lost Without a Map/Solution">
-      <created>1678483760599</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+    <task id="LOCAL-00088" summary="feat: HackerRank/medium/Java Stack solution added">
+      <created>1685908340628</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
       <option name="project" value="LOCAL" />
-      <updated>1678483760599</updated>
+      <updated>1685908340628</updated>
     </task>
-    <task id="LOCAL-00024" summary="CodeWars/8kyu/Returning Strings/Solution">
-      <created>1678483862093</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+    <task id="LOCAL-00089" summary="feat: HackerRank/medium/Java Dequeue solution added">
+      <created>1685987307955</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
       <option name="project" value="LOCAL" />
-      <updated>1678483862093</updated>
+      <updated>1685987307955</updated>
     </task>
-    <task id="LOCAL-00025" summary="CodeWars/8kyu/A Needle in the Haystack/Solution">
-      <created>1678484008002</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+    <task id="LOCAL-00090" summary="feat: HackerRank/medium/Java Priority Queue solution added">
+      <created>1686064544796</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1678484008002</updated>
+      <updated>1686064544796</updated>
     </task>
-    <task id="LOCAL-00026" summary="CodeWars/8kyu/Function 1 - hello world/Solution">
-      <created>1678572135939</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
+    <task id="LOCAL-00091" summary="feat: HackerRank/medium/Can You Access?, Prime Checker and Java Lambda Expressions solutions added">
+      <created>1686152762212</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
       <option name="project" value="LOCAL" />
-      <updated>1678572135939</updated>
+      <updated>1686152762212</updated>
     </task>
-    <task id="LOCAL-00027" summary="CodeWars/8kyu/Beginner Series #2 Clock/Solution">
-      <created>1678572202606</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
+    <task id="LOCAL-00092" summary="feat: HackerRank/medium/Java MD5 and Java SHA256 solutions added">
+      <created>1686229404693</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
       <option name="project" value="LOCAL" />
-      <updated>1678572202606</updated>
+      <updated>1686229404693</updated>
     </task>
-    <task id="LOCAL-00028" summary="CodeWars/8kyu/Opposites Attract/Solution">
-      <created>1678572262961</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
+    <task id="LOCAL-00093" summary="feat: HackerRank/medium/Java Annotations solution added">
+      <created>1686336973485</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
       <option name="project" value="LOCAL" />
-      <updated>1678572262961</updated>
+      <updated>1686336973486</updated>
     </task>
-    <task id="LOCAL-00029" summary="CodeWars/8kyu/Convert a Boolean to a String/Solution">
-      <created>1678643379277</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
+    <task id="LOCAL-00094" summary="feat: HackerRank/medium/Java Visitor Pattern solution added">
+      <created>1686392497901</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
       <option name="project" value="LOCAL" />
-      <updated>1678643379277</updated>
+      <updated>1686392497901</updated>
     </task>
-    <task id="LOCAL-00030" summary="CodeWars/8kyu/Count of positives / sum of negatives/Solution">
-      <created>1678643634293</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
+    <task id="LOCAL-00095" summary="update: [README.md] HackerRank/medium/problems form 2 to 15 added">
+      <created>1686393019541</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
       <option name="project" value="LOCAL" />
-      <updated>1678643634293</updated>
+      <updated>1686393019541</updated>
     </task>
-    <task id="LOCAL-00031" summary="CodeWars/8kyu/Invert values/Solution">
-      <created>1678644112952</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
+    <task id="LOCAL-00096" summary="feat: CodeWars/6kyu/Equal Sides Of An Array solution added">
+      <created>1686665605170</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
       <option name="project" value="LOCAL" />
-      <updated>1678644112952</updated>
+      <updated>1686665605170</updated>
     </task>
-    <task id="LOCAL-00032" summary="CodeWars/7kyu/Vowel Count/Solution">
-      <created>1678727521885</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
+    <task id="LOCAL-00097" summary="feat: CodeWars/6kyu/Detect Pangram solution added">
+      <created>1686754369170</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
       <option name="project" value="LOCAL" />
-      <updated>1678727521885</updated>
+      <updated>1686754369170</updated>
     </task>
-    <task id="LOCAL-00033" summary="CodeWars/7kyu/Disemvowel Trolls/Solution">
-      <created>1678727584923</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
+    <task id="LOCAL-00098" summary="feat: CodeWars/6kyu/Find the unique number solution added">
+      <created>1686828979267</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
       <option name="project" value="LOCAL" />
-      <updated>1678727584923</updated>
+      <updated>1686828979267</updated>
     </task>
-    <task id="LOCAL-00034" summary="CodeWars/7kyu/Digit*Digit/Solution">
-      <created>1678727720059</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
+    <task id="LOCAL-00099" summary="feat: CodeWars/6kyu/Split Strings solution added">
+      <created>1687028898561</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
       <option name="project" value="LOCAL" />
-      <updated>1678727720059</updated>
+      <updated>1687028898561</updated>
     </task>
-    <task id="LOCAL-00035" summary="CodeWars/7kyu/Highest and Lowest/Solution">
-      <created>1678826268232</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
+    <task id="LOCAL-00100" summary="feat: CodeWars/6kyu/Sort the odd solution added">
+      <created>1687094104544</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
       <option name="project" value="LOCAL" />
-      <updated>1678826268232</updated>
+      <updated>1687094104545</updated>
     </task>
-    <task id="LOCAL-00036" summary="CodeWars/7kyu/Descending Order/Solution">
-      <created>1678826322663</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
+    <task id="LOCAL-00101" summary="feat: CodeWars/6kyu/Find the missing letter solution added">
+      <created>1687189278510</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
       <option name="project" value="LOCAL" />
-      <updated>1678826322663</updated>
+      <updated>1687189278511</updated>
     </task>
-    <task id="LOCAL-00037" summary="CodeWars/7kyu/Descending Order/Solution">
-      <created>1678826377160</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
+    <task id="LOCAL-00102" summary="feat: CodeWars/6kyu/Highest Scoring Word solution added">
+      <created>1687269259137</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
       <option name="project" value="LOCAL" />
-      <updated>1678826377160</updated>
+      <updated>1687269259137</updated>
     </task>
-    <task id="LOCAL-00038" summary="CodeWars/7kyu/Get The Middle Character/Solution">
-      <created>1678826401432</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
+    <task id="LOCAL-00103" summary="feat: CodeWars/6kyu/Build Tower solution added">
+      <created>1687337481085</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
       <option name="project" value="LOCAL" />
-      <updated>1678826401432</updated>
+      <updated>1687337481085</updated>
     </task>
-    <task id="LOCAL-00039" summary="CodeWars/7kyu/Mumbling/Solution">
-      <created>1678916133335</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+    <task id="LOCAL-00104" summary="feat: CodeWars/6kyu/Delete occurrences of an element if it occurs more than n times solution added">
+      <created>1687426724591</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
       <option name="project" value="LOCAL" />
-      <updated>1678916133335</updated>
+      <updated>1687426724591</updated>
     </task>
-    <task id="LOCAL-00040" summary="CodeWars/7kyu/You're a square!/Solution">
-      <created>1678916216203</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+    <task id="LOCAL-00105" summary="feat: CodeWars/6kyu/Count the smiley faces! solution added">
+      <created>1687547246655</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
       <option name="project" value="LOCAL" />
-      <updated>1678916216203</updated>
+      <updated>1687547246655</updated>
     </task>
-    <task id="LOCAL-00041" summary="CodeWars/7kyu/List Filtering/Solution">
-      <created>1678916455827</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+    <task id="LOCAL-00106" summary="feat: CodeWars/6kyu/Build a pile of Cubes&#10; solution added and CodeWars/6kyu/Count the smiley faces! solution fixed">
+      <created>1687606143901</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
       <option name="project" value="LOCAL" />
-      <updated>1678916455827</updated>
+      <updated>1687606143902</updated>
     </task>
-    <task id="LOCAL-00042" summary="CodeWars/7kyu/Isograms/Solution">
-      <created>1679002800610</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+    <task id="LOCAL-00107" summary="update: [README.md] CodeWars/6kyu/from 20 to 30 problems added">
+      <created>1687606656805</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
       <option name="project" value="LOCAL" />
-      <updated>1679002800610</updated>
+      <updated>1687606656806</updated>
     </task>
-    <task id="LOCAL-00043" summary="CodeWars/7kyu/Exes and Ohs/Solution">
-      <created>1679002871339</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+    <task id="LOCAL-00108" summary="feat: CodeWars/5kyu/My smallest code interpreter (aka Brainf**k) solution added">
+      <created>1687724833655</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
       <option name="project" value="LOCAL" />
-      <updated>1679002871339</updated>
+      <updated>1687724833655</updated>
     </task>
-    <task id="LOCAL-00044" summary="CodeWars/7kyu/Shortest Word/Solution">
-      <created>1679003050764</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+    <task id="LOCAL-00109" summary="feat: CodeWars/5kyu/Simple Pig Latin solution added">
+      <created>1687793707436</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
       <option name="project" value="LOCAL" />
-      <updated>1679003050764</updated>
+      <updated>1687793707436</updated>
     </task>
-    <task id="LOCAL-00045" summary="CodeWars/8kyu/Convert number to reversed array of digits/Solution">
-      <created>1679065177840</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+    <task id="LOCAL-00110" summary="feat: CodeWars/5kyu/Human Readable Time&#10; solution added">
+      <created>1687880758610</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
       <option name="project" value="LOCAL" />
-      <updated>1679065177840</updated>
+      <updated>1687880758611</updated>
     </task>
-    <task id="LOCAL-00046" summary="CodeWars/7kyu/Jaden Casing Strings/Solution">
-      <created>1679078976056</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+    <task id="LOCAL-00111" summary="feat: CodeWars/6kyu/Detect Panagram solution added">
+      <created>1695059362599</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
       <option name="project" value="LOCAL" />
-      <updated>1679078976057</updated>
+      <updated>1695059362599</updated>
     </task>
-    <task id="LOCAL-00047" summary="CodeWars/7kyu/Complementary DNA/Solution">
-      <created>1679079169002</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+    <task id="LOCAL-00112" summary="feat: Exercism/Saddle Point solution added&#10;update: .gitignore">
+      <created>1695164184200</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
       <option name="project" value="LOCAL" />
-      <updated>1679079169002</updated>
+      <updated>1695164184200</updated>
     </task>
-    <task id="LOCAL-00048" summary="CodeWars/7kyu/Credit Card Mask/Solution">
-      <created>1679079349299</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+    <task id="LOCAL-00113" summary="feat: Exercism/Word Count solution added">
+      <created>1695334553299</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
       <option name="project" value="LOCAL" />
-      <updated>1679079349299</updated>
+      <updated>1695334553299</updated>
     </task>
-    <task id="LOCAL-00049" summary="CodeWars/7kyu/Beginner Series #3 Sum of Numbers/Solution">
-      <created>1679140715714</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+    <task id="LOCAL-00114" summary="feat: Exercism Robot Name solution added">
+      <created>1695416580947</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
       <option name="project" value="LOCAL" />
-      <updated>1679140715714</updated>
+      <updated>1695416580947</updated>
     </task>
-    <task id="LOCAL-00050" summary="CodeWars/7kyu/Two to One/Solution">
-      <created>1679141129213</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+    <task id="LOCAL-00115" summary="feat: exercism binary search solution added">
+      <created>1695477760092</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
       <option name="project" value="LOCAL" />
-      <updated>1679141129213</updated>
+      <updated>1695477760093</updated>
     </task>
-    <task id="LOCAL-00051" summary="CodeWars/7kyu/Find the next perfect square!/Solution">
-      <created>1679141343090</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+    <task id="LOCAL-00116" summary="feat: exercism Reverse String solution added">
+      <created>1695479391211</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
       <option name="project" value="LOCAL" />
-      <updated>1679141343090</updated>
+      <updated>1695479391211</updated>
     </task>
-    <task id="LOCAL-00052" summary="CodeWars/7kyu/Printer Errors/Solution">
-      <created>1679254844803</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+    <task id="LOCAL-00117" summary="feat: exercism D&amp;D Character solution added">
+      <created>1695590506591</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
       <option name="project" value="LOCAL" />
-      <updated>1679254844803</updated>
+      <updated>1695590506592</updated>
     </task>
-    <task id="LOCAL-00053" summary="CodeWars/7kyu/Find the next perfect square!/Solution">
-      <created>1679254879322</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+    <task id="LOCAL-00118" summary="feat: Exercism Grains solution added, DnDCharacter refactor">
+      <created>1695662117431</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
       <option name="project" value="LOCAL" />
-      <updated>1679254879322</updated>
+      <updated>1695662117431</updated>
     </task>
-    <task id="LOCAL-00054" summary="CodeWars/7kyu/Growth of a Population/Solution">
-      <created>1679255026275</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+    <task id="LOCAL-00119" summary="feat: exercism Resistor Color solution added">
+      <created>1695821005972</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
       <option name="project" value="LOCAL" />
-      <updated>1679255026275</updated>
+      <updated>1695821005972</updated>
     </task>
-    <task id="LOCAL-00055" summary="CodeWars/7kyu/Regex validate PIN code/Solution">
-      <created>1679255358559</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+    <task id="LOCAL-00120" summary="feat: exercism Resistor Color Duo solution added">
+      <created>1695824206192</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
       <option name="project" value="LOCAL" />
-      <updated>1679255358559</updated>
+      <updated>1695824206192</updated>
     </task>
-    <task id="LOCAL-00056" summary="CodeWars/7kyu/Binary Addition/Solution">
-      <created>1679343348058</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+    <task id="LOCAL-00121" summary="feat: exercism Isogram solution added">
+      <created>1695912549080</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
       <option name="project" value="LOCAL" />
-      <updated>1679343348058</updated>
+      <updated>1695912549081</updated>
     </task>
-    <task id="LOCAL-00057" summary="CodeWars/7kyu/Is this a triangle?/Solution">
-      <created>1679343426870</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+    <task id="LOCAL-00122" summary="feat: exercism Protein Translation solution added">
+      <created>1696014330945</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
       <option name="project" value="LOCAL" />
-      <updated>1679343426870</updated>
+      <updated>1696014330945</updated>
     </task>
-    <task id="LOCAL-00058" summary="CodeWars/7kyu/Sum of odd numbers/Solution">
-      <created>1679343495923</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+    <task id="LOCAL-00123" summary="feat: exercism Logs, Logs, Logs! solution added">
+      <created>1696369349021</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
       <option name="project" value="LOCAL" />
-      <updated>1679343495923</updated>
+      <updated>1696369349021</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CodeWars/7kyu/Vowel Count/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Disemvowel Trolls/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Digit*Digit/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Highest and Lowest/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Descending Order/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Get The Middle Character/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Mumbling/Solution" />
-    <MESSAGE value="CodeWars/7kyu/You're a square!/Solution" />
-    <MESSAGE value="CodeWars/7kyu/List Filtering/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Isograms/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Exes and Ohs/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Shortest Word/Solution" />
-    <MESSAGE value="CodeWars/8kyu/Convert number to reversed array of digits/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Jaden Casing Strings/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Complementary DNA/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Credit Card Mask/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Beginner Series #3 Sum of Numbers/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Two to One/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Printer Errors/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Find the next perfect square!/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Growth of a Population/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Regex validate PIN code/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Binary Addition/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Is this a triangle?/Solution" />
-    <MESSAGE value="CodeWars/7kyu/Sum of odd numbers/Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWars/7kyu/Sum of odd numbers/Solution" />
+    <MESSAGE value="feat: CodeWars/6kyu/Split Strings solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Sort the odd solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Find the missing letter solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Highest Scoring Word solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Build Tower solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Delete occurrences of an element if it occurs more than n times solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Count the smiley faces! solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Build a pile of Cubes&#10; solution added and CodeWars/6kyu/Count the smiley faces! solution fixed" />
+    <MESSAGE value="update: [README.md] CodeWars/6kyu/from 20 to 30 problems added" />
+    <MESSAGE value="feat: CodeWars/5kyu/My smallest code interpreter (aka Brainf**k) solution added" />
+    <MESSAGE value="feat: CodeWars/5kyu/Simple Pig Latin solution added" />
+    <MESSAGE value="feat: CodeWars/5kyu/Human Readable Time&#10; solution added" />
+    <MESSAGE value="feat: CodeWars/6kyu/Detect Panagram solution added" />
+    <MESSAGE value="feat: Exercism/Saddle Point solution added&#10;update: .gitignore" />
+    <MESSAGE value="feat: Exercism/Word Count solution added" />
+    <MESSAGE value="feat: Exercism Robot Name solution added" />
+    <MESSAGE value="feat: exercism binary search solution added" />
+    <MESSAGE value="feat: exercism Reverse String solution added" />
+    <MESSAGE value="feat: exercism D&amp;D Character solution added" />
+    <MESSAGE value="feat: Exercism Grains solution added, DnDCharacter refactor" />
+    <MESSAGE value="feat: exercism Resistor Color solution added" />
+    <MESSAGE value="feat: exercism Resistor Color Duo solution added" />
+    <MESSAGE value="feat: exercism Isogram solution added" />
+    <MESSAGE value="feat: exercism Protein Translation solution added" />
+    <MESSAGE value="feat: exercism Logs, Logs, Logs! solution added" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: exercism Logs, Logs, Logs! solution added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
