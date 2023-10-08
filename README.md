@@ -1,4 +1,4 @@
-# DailyGrindJava: 195 in total
+# DailyGrindJava: 198 in total
 
 Daily dose of Java.
 
@@ -8,7 +8,7 @@ I made this repository public just to force myself to solve at least one problem
 for solutions to these tasks, I strongly advise against it. Copying solution for such simple problems won't do you any
 good. Think, break it, use ChatGPT even (it will explain how to get to the solution).
 
-## CodeWars: 91 in total
+## CodeWars: 94 in total
 
 | Question                                                                                                      |                                                                     Solution                                                                     | Kyu |
 |---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|
@@ -109,6 +109,12 @@ good. Think, break it, use ChatGPT even (it will explain how to get to the solut
 | [28. Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023) |      [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/EnoughIsEnough.java)      |  6  |
 | [29. Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a)                                         |        [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/SmileFaces.java)        |  6  |
 | [30. Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)                                           |           [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu6/ASum.java)           |  6  |
+
+| Question                                                                                                  |                                                           Solution                                                            | Kyu |
+|-----------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------:|:---:|
+| [1. My smallest code interpreter (aka Brainf**k)](https://www.codewars.com/kata/526156943dfe7ce06200063e) |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu5/BrainLuck.java)     |  5  |
+| [2. Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)                             |     [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu5/PigLatin.java)      |  5  |
+| [3. Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)                          | [Solution](https://github.com/HumansDoNotWantImmortality/DailyGrindJava/blob/master/src/codewars/kyu5/HumanReadableTime.java) |  5  |
 
 ## Project Euler: 18 in total
 
